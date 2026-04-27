@@ -1,0 +1,602 @@
+[
+  {
+    "financebench_id": "financebench_id_00005",
+    "RAG_answer": "The context does not contain enough information.",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "doc_name": "CORNING_2022_10K",
+        "company": "Corning",
+        "doc_period": "2022",
+        "page_number": 101,
+        "content": "(1) Corning obtained a controlling interest in HSG during the third quarter of 2020 and has consolidated results in Hemlock and Emerging Growth Businesses since September 9, 2020.  Refer to Note 3 (HSGTransactions and Acquisitions) in the notes to the consolidated financial statements for additional information.(2) Depreciation expense for Corning’s reportable segments and Hemlock and Emerging Growth Businesses includes an allocation of depreciation of corporate property not specifically identifiable to asegment.(3) Research, development and engineering expenses include direct project spending that is identifiable to a segment.(4) Income tax (provision) benefit reflects a tax rate of 21%.(5) Segment assets include inventory, accounts receivable, property, plant and equipment, net of accumulated depreciation, and associated equity companies.\n 102"
+      },
+      {
+        "rank": 2,
+        "doc_name": "CORNING_2022_10K",
+        "company": "Corning",
+        "doc_period": "2022",
+        "page_number": 102,
+        "content": "(1) Corning obtained a controlling interest in HSG during the third quarter of 2020 and has consolidated results in Hemlock and Emerging Growth Businesses since September 9, 2020.  Refer to Note 3 (HSGTransactions and Acquisitions) in the notes to the consolidated financial statements for additional information.(2) Amount does not include research, development and engineering expense related to restructuring, impairment and other charges and credits and pension mark-to-market.(3) Refer to Note 2 (Restructuring, Impairment and Other Charges and Credits) in the notes to the consolidated financial statements for additional information on restructuring activities and impairment.(4) Amount represents the pre-tax gain recorded on Corning’s previously held equity investment in HSG recorded in 2020. Refer to Note 3 (HSG Transactions and Acquisitions) in the notes to the consolidatedfinancial statements for additional information.(5) Amount represents the negative impact of a cumulative"
+      },
+      {
+        "rank": 3,
+        "doc_name": "CORNING_2022_10K",
+        "company": "Corning",
+        "doc_period": "2022",
+        "page_number": 90,
+        "content": "Corning uses regression analysis or the critical term match method to assess initial hedge effectiveness. Following the inception of a hedging relationship, hedgeeffectiveness is assessed quarterly based on qualitative factors.  Undesignated Hedges Corning uses OTC foreign exchange forward and option contracts not designated as hedging instruments for accounting purposes to offset economic currency risks. Theundesignated hedges limit exposure to foreign functional currency fluctuations related to certain subsidiaries’ monetary assets, monetary liabilities and net earnings inforeign currencies.  A significant portion of the Company’s non-U.S. revenue and expenses are denominated in Japanese yen, South Korean won, new Taiwan dollar, Chinese yuan and euro.When this revenue and these expenses are translated back to U.S. dollars, the Company is exposed to foreign exchange rate movements. To protect translated earningsagainst movements in these currencies, the Company has entered into a"
+      },
+      {
+        "rank": 4,
+        "doc_name": "CORNING_2022_10K",
+        "company": "Corning",
+        "doc_period": "2022",
+        "page_number": 20,
+        "content": "Table of Contents  PART II Item 5. Market for Registrant’s Common Equity, Related Shareholder Matters and Issuer Purchases of Equity Securities (a) Corning Incorporated common stock is listed on the New York Stock Exchange. In addition, it is traded on the Boston, Midwest and Philadelphia stock exchanges.Common stock options are traded on the Chicago Board Options Exchange. The NYSE ticker symbol for Corning Incorporated is “GLW”. As of December 31, 2022, there were approximately 11,500 registered holders of common stock and approximately 748,000 beneficial shareholders. Information with respect to securities authorized for issuance under equity compensation plans is included herein under Item 12. Performance Graph The following graph illustrates the cumulative total shareholder return over the last five years of Corning’s common stock, the S&P 500 and the S&P CommunicationsEquipment Companies.  The graph includes the capital-weighted-performance results of those companies in the"
+      },
+      {
+        "rank": 5,
+        "doc_name": "CORNING_2022_10K",
+        "company": "Corning",
+        "doc_period": "2022",
+        "page_number": 68,
+        "content": "investments that do not result in consolidation and are not accounted for under the equity method are measured at fair value with changes therein reflected innet income. The Company utilizes the measurement alternative for equity investments that do not have readily determinable fair values and measures these investmentsat cost less impairment, plus or minus observable price changes in orderly transactions. These investments were not material as of December 31, 2022 and 2021. Employee Retirement Plans Corning offers employee retirement plans consisting of defined benefit pension plans covering certain domestic and international employees and postretirement plansthat provide health care and life insurance benefits for eligible retirees and dependents. The costs and obligations related to these benefits reflect the Company’sassumptions related to general economic conditions, particularly interest rates, expected return on plan assets, rate of compensation increase for employees and"
+      }
+    ],
+    "retrieved_doc_names": [
+      "CORNING_2022_10K",
+      "CORNING_2022_10K",
+      "CORNING_2022_10K",
+      "CORNING_2022_10K",
+      "CORNING_2022_10K"
+    ],
+    "retrieved_page_numbers": [
+      101,
+      102,
+      90,
+      20,
+      68
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00070",
+    "RAG_answer": "The context does not contain enough information.",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "doc_name": "AMERICANWATERWORKS_2022_10K",
+        "company": "American Water Works",
+        "doc_period": "2022",
+        "page_number": 81,
+        "content": "Table of Contents\nAmerican Water Works Company, Inc. and Subsidiary Companies\nConsolidated Balance Sheets\n(In millions, except share and per share data)\nDecember 31, 2022 December 31, 2021\nCAPITALIZATION AND LIABILITIES\nCapitalization:   \nCommon stock ($0.01 par value; 500,000,000 shares authorized; 187,200,539 and 186,880,413 sharesissued, respectively) $ 2 $ 2 \nPaid-in-capital 6,824 6,781 \nRetained earnings 1,267 925 \nAccumulated other comprehensive loss (23) (45)\nTreasury stock, at cost (5,342,477 and 5,269,324 shares, respectively) (377) (365)\nTotal common shareholders' equity 7,693 7,298 \nLong-term debt 10,926 10,341 \nRedeemable preferred stock at redemption value 3 3 \nTotal long-term debt 10,929 10,344 \nTotal capitalization 18,622 17,642 \nCurrent liabilities:   \nShort-term debt 1,175 584 \nCurrent portion of long-term debt 281 57 \nAccounts payable 254 235 \nAccrued liabilities 706 701 \nAccrued taxes 49 176 \nAccrued interest 91 88 \nLiabilities related to assets held for sale — 83"
+      },
+      {
+        "rank": 2,
+        "doc_name": "AMERICANWATERWORKS_2022_10K",
+        "company": "American Water Works",
+        "doc_period": "2022",
+        "page_number": 139,
+        "content": "4.21 Officers’ Certificate of American Water Capital Corp., dated May 5, 2022, establishing the terms and authorizing the issuance of the 4.450% Senior Notes due 2032(incorporated by reference to Exhibit 4.1 to American Water Works Company, Inc.’s Current Report on Form 8-K, File No. 001-34028, filed on May 5, 2022).\n4.22 Description of American Water Works Company, Inc.’s Equity Securities (filed herewith).\n4.23 Note Purchase Agreement, dated May 15, 2008, between American Water Capital Corp. and the purchasers party thereto (incorporated by reference to Exhibit 10.1 toAmerican Water Works Company, Inc.’s Current Report on Form 8-K, File No. 001-34028, filed May 19, 2008) with respect to the 6.55% Series H Senior Notes due May 15,2023."
+      },
+      {
+        "rank": 3,
+        "doc_name": "AMERICANWATERWORKS_2022_10K",
+        "company": "American Water Works",
+        "doc_period": "2022",
+        "page_number": 144,
+        "content": "DESCRIPTION OF AMERICAN WATER WORKS COMPANY, INC.’S EQUITY SECURITIES\nThe following description of the common stock, par value $0.01 per share (the “Common Stock”), of American Water Works Company, Inc., a Delawarecorporation (the “Company”), is not intended to be complete. For more information regarding the Common Stock, please refer to the Company’s RestatedCertificate of Incorporation (the “Certificate of Incorporation”), and the Company’s Amended and Restated Bylaws (the “Bylaws”), which have been includedas Exhibit 3.1 and Exhibit 3.2, respectively, to the Company’s Annual Report on Form 10-K for the year ended December 31, 2022. The following descriptionsare based on the Certificate of Incorporation and Bylaws in effect as of February 15, 2023. The terms and provisions of the Certificate of Incorporation andBylaws are hereby incorporated by reference herein. The terms of these securities also may be affected by the General Corporation Law of the State ofDelaware (the “DGCL”)."
+      },
+      {
+        "rank": 4,
+        "doc_name": "3M_2022_10K",
+        "company": "3M",
+        "doc_period": "2022",
+        "page_number": 37,
+        "content": "not defined under U.S. generally accepted accounting principles and may not be computed the same as similarly titled measures used by other companies. The Company defines\nworking capital as current assets minus current liabilities. 3M believes working capital is meaningful to investors as a measure of operational efficiency and short-term financial\nhealth.\nWorking capital decreased $1.2 billion compared with December 31, 2021. Balance changes in current assets decreased working capital by $0.7 billion, driven largely by\ndecreases in cash and cash equivalents. Balance changes in current liabilities decreased working capital by $0.5 billion, primarily due to increases in short-term borrowings and\ncurrent-portion of long-term debt offset by decreases in accrued payroll.\nInventory increased $387 million from December 31, 2021, primarily as a result of increased underlying operating activity partially offset by foreign currency translation"
+      },
+      {
+        "rank": 5,
+        "doc_name": "AMERICANWATERWORKS_2022_10K",
+        "company": "American Water Works",
+        "doc_period": "2022",
+        "page_number": 138,
+        "content": "4.2 Indenture, dated as of December 4, 2009, between American Water Capital Corp. and Computershare Trust Company, N.A., as successor to Wells Fargo Bank, NationalAssociation (incorporated by reference to Exhibit 4.1 to American Water Works Company, Inc.’s Current Report on Form 8-K, File No. 001-34028, filed December 3, 2010).\n4.3 Officers’ Certificate, dated December 17, 2012, establishing the 4.300% Senior Notes due 2042 (incorporated by reference to Exhibit 4.1 to American Water Works Company,Inc.’s Current Report on Form 8-K, File No. 001-34028, filed December 17, 2012).\n4.4 Officers’ Certificate, dated November 20, 2013, establishing the 3.850% Senior Notes due 2024 (incorporated by reference to Exhibit 4.1 to American Water Works Company,Inc.’s Current Report on Form 8-K, File No. 001-34028, filed November 20, 2013)."
+      }
+    ],
+    "retrieved_doc_names": [
+      "AMERICANWATERWORKS_2022_10K",
+      "AMERICANWATERWORKS_2022_10K",
+      "AMERICANWATERWORKS_2022_10K",
+      "3M_2022_10K",
+      "AMERICANWATERWORKS_2022_10K"
+    ],
+    "retrieved_page_numbers": [
+      81,
+      139,
+      144,
+      37,
+      138
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00080",
+    "RAG_answer": "The context does not contain enough information.",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "doc_name": "PAYPAL_2022_10K",
+        "company": "Paypal",
+        "doc_period": "2022",
+        "page_number": 7,
+        "content": "conversion through higher consumer engagement.\nWe offer access to merchant finance products for certain small and medium-sized businesses through the PayPal Working Capital and PayPal Business Loan\nproducts, which we collectively refer to as our merchant finance offerings. The PayPal Working Capital product allows businesses to access a loan or cash\nadvance for a fixed fee and based on their annual payment volume processed by PayPal. The PayPal Business Loan product provides businesses with short-\nterm financing for a fixed fee based on an evaluation of both the applying business as well as the business owner. In the United States (“U.S.”), these products\nare provided under a program agreement with an independent chartered financial institution. We believe that our merchant finance offerings enable us to\ndeepen our engagement with our existing small and medium-sized merchants and expand services to new merchants by providing access to capital that may not"
+      },
+      {
+        "rank": 2,
+        "doc_name": "PAYPAL_2022_10K",
+        "company": "Paypal",
+        "doc_period": "2022",
+        "page_number": 3,
+        "content": "statements and the related notes that appear in this report.\nITEM 1. BUSINESS\nOVERVIEW\nPayPal Holdings, Inc. was incorporated in Delaware in January 2015 and is a leading technology platform that enables digital payments and simplifies\ncommerce experiences on behalf of merchants and consumers worldwide. PayPal is committed to democratizing financial services to help improve the\nfinancial health of individuals and to increase economic opportunity for entrepreneurs and businesses of all sizes around the world. Our goal is to enable our\nmerchants and consumers to manage and move their money anywhere in the world in the markets we serve, anytime, on any platform, and using any device\nwhen sending payments or getting paid, including person-to-person (“P2P”) payments. Our core values of Inclusion, Innovation, Collaboration, and Wellness,"
+      },
+      {
+        "rank": 3,
+        "doc_name": "PAYPAL_2022_10K",
+        "company": "Paypal",
+        "doc_period": "2022",
+        "page_number": 32,
+        "content": "audited consolidated financial statements and the related notes that appear in this report. Unless otherwise expressly stated or the context otherwise requires,\nreferences to “we,” “our,” “us,” “the Company,” and “PayPal” refer to PayPal Holdings, Inc. and its consolidated subsidiaries.\nThis Management’s Discussion and Analysis of Financial Condition and Results of Operations focuses on a discussion of 2022 results as compared to 2021\nresults. For a discussion of 2021 results as compared to 2020 results, see “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of\nOperations” within our Form 10-K for the year ended December 31, 2021 filed with the SEC on February 3, 2022.\nBUSINESS ENVIRONMENT\nTHE COMPANY\nWe are a leading technology platform that enables digital payments and simplifies commerce experiences on behalf of merchants and consumers worldwide."
+      },
+      {
+        "rank": 4,
+        "doc_name": "PAYPAL_2022_10K",
+        "company": "Paypal",
+        "doc_period": "2022",
+        "page_number": 48,
+        "content": "Table of Contents\nCURRENT AND FUTURE CASH REQUIREMENTS\nOur material cash requirements include funds to support current and potential: operating activities, credit products, customer protection programs, stock\nrepurchases, strategic investments, acquisitions, other commitments, and capital expenditures and other future obligations.\nCredit products\nGrowth in our portfolio of loan receivables increases our liquidity needs, and any inability to meet those liquidity needs could adversely affect our business. We\nare currently evaluating partnerships and third-party sources of funding for our credit products.\nIn June 2018, the Luxembourg Commission de Surveillance du Secteur Financier (the “CSSF”) agreed that PayPal’s management may designate up to 35% of\nEuropean customer balances held in our Luxembourg banking subsidiary to fund European and U.S. credit activities. In August 2022, the CSSF approved"
+      },
+      {
+        "rank": 5,
+        "doc_name": "PAYPAL_2022_10K",
+        "company": "Paypal",
+        "doc_period": "2022",
+        "page_number": 75,
+        "content": "Table of Contents\nPayPal Holdings, Inc.\nNOTES TO CONSOLIDATED FINANCIAL STATEMENTS—(Continued)\nConcentrations of risk\nOur cash, cash equivalents, short-term investments, accounts receivable, loans and interest receivable, net, funds receivable and customer accounts, long-term\ninvestments, and long-term notes receivable, are potentially subject to concentration of credit risk. Cash, cash equivalents, and customer accounts are placed\nwith financial institutions that management believes are of high credit quality. In addition, funds receivable are generated primarily with financial institutions\nwhich management believes are of high credit quality. We invest our cash, cash equivalents, and customer accounts primarily in highly liquid, highly rated\ninstruments which are uninsured. We have corporate deposit balances with financial services institutions which exceed the FDIC insurance limit of $250,000."
+      }
+    ],
+    "retrieved_doc_names": [
+      "PAYPAL_2022_10K",
+      "PAYPAL_2022_10K",
+      "PAYPAL_2022_10K",
+      "PAYPAL_2022_10K",
+      "PAYPAL_2022_10K"
+    ],
+    "retrieved_page_numbers": [
+      7,
+      3,
+      32,
+      48,
+      75
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00206",
+    "RAG_answer": "The context does not contain enough information.",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "doc_name": "BESTBUY_2023_10K",
+        "company": "Best Buy",
+        "doc_period": "2023",
+        "page_number": 17,
+        "content": "and in our other public filings and public statements. Our actual results may not be in line with guidance we have provided. We may not be able to accurately forecast our growth rate and profit margins. We base our expense levels and investment plans on sales estimates. A significant portion of our expenses and investments are fixed, and we may not be able to adjust our spending quickly enough if our sales are less than expected. Our revenue growth may not be sustainable and our percentage growth rates may decrease. Our revenue and operating profit growth depend on the continued growth of demand for the products and services offered by us, and our business is affected by general economic and business conditions worldwide. If our financial results for a particular period do not meet any guidance we provide or the expectations of market participants, or if we reduce any guidance for future periods, the market price of our common stock may decline. Item 1B. Unresolved Staff Comments. Not"
+      },
+      {
+        "rank": 2,
+        "doc_name": "AMD_2022_10K",
+        "company": "AMD",
+        "doc_period": "2022",
+        "page_number": 45,
+        "content": "Management's estimates of fair value are based upon assumptions believed to be reasonable, but which are inherently uncertain and unpredictable and, as aresult, actual results may differ from estimates. Allocation of purchase consideration to identifiable assets and liabilities affects our amortization expense, asacquired finite-lived intangible assets are amortized over the useful life, whereas any indefinite lived intangible assets, including goodwill, are not amortized.During the measurement period, which is not to exceed one year from the acquisition date, we may record adjustments to the assets acquired and liabilitiesassumed, with the corresponding offset to goodwill. Upon the conclusion of the measurement period, any subsequent adjustments are recorded to earnings."
+      },
+      {
+        "rank": 3,
+        "doc_name": "BOEING_2022_10K",
+        "company": "Boeing",
+        "doc_period": "2022",
+        "page_number": 50,
+        "content": "inflationary or deflationary trends, and lingering impacts of COVID-19.\nTo ensure reliability in our estimates, we employ a rigorous estimating process that is reviewed and updated on a quarterly basis. This includes\nreassessing the accounting quantity. Changes in estimates of program gross profit margins are normally recognized on a prospective basis;\nhowever, when estimated costs to complete a program plus costs already included in inventory exceed estimated revenues from the program, a\nloss is recorded in the current period. Reductions to the estimated loss are included in the gross profit margin for undelivered units in the\naccounting quantity whereas increases to the estimated loss are recorded as an earnings charge in the period in which the loss is determined.\nThe 767, 777X, and 787 programs had near break-even or single digit margins at December 31, 2022. Adverse changes to the revenue and/or\ncost estimates for these programs could result in earnings charges in future periods."
+      },
+      {
+        "rank": 4,
+        "doc_name": "CORNING_2022_10K",
+        "company": "Corning",
+        "doc_period": "2022",
+        "page_number": 29,
+        "content": "it is important tounderstand the impact on sales and net income of translating these currencies into U.S. dollars. Therefore, management utilizes constant-currency reporting for DisplayTechnologies, Specialty Materials, Environmental Technologies and Life Sciences segments to exclude the impact from the Japanese yen, South Korean won, Chineseyuan, new Taiwan dollar and the euro, as applicable to the segment. The most significant constant-currency adjustment relates to the Japanese yen exposure within theDisplay Technologies segment. We establish constant-currency rates based on internally derived management estimates, which are closely aligned with the currencies wehave hedged. For details of the rates used, please see the footnotes to the “Reconciliation of Non-GAAP Measures” section. We believe that the use of constant-currency reporting allows management to understand our results without the volatility of currency fluctuation, analyze underlyingtrends in the businesses and"
+      },
+      {
+        "rank": 5,
+        "doc_name": "CORNING_2022_10K",
+        "company": "Corning",
+        "doc_period": "2022",
+        "page_number": 24,
+        "content": "/ Gross Margin The types of expenses included in cost of sales are: raw materials consumption, including direct and indirect materials; salaries, wages and benefits; depreciation andamortization; production utilities; production-related purchasing; warehousing (including receiving and inspection); repairs and maintenance; inter-location inventorytransfer costs; production and warehousing facility property insurance; rent for production facilities; freight and logistics costs; and other production overhead. Gross margin decreased by $557 million, or 11% and gross margin as a percentage of sales decreased by 4 percentage points when compared to 2021.  The decrease ingross margin was primarily driven by higher production, material and freight costs as well as incremental severance, accelerated depreciation, asset write-offs and otherrelated charges of $257 million. In addition, movements in foreign exchange rates had an adverse impact of $422 million on Corning’s consolidated gross"
+      }
+    ],
+    "retrieved_doc_names": [
+      "BESTBUY_2023_10K",
+      "AMD_2022_10K",
+      "BOEING_2022_10K",
+      "CORNING_2022_10K",
+      "CORNING_2022_10K"
+    ],
+    "retrieved_page_numbers": [
+      17,
+      45,
+      50,
+      29,
+      24
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00215",
+    "RAG_answer": "Answer: Yes, Verizon is a capital intensive business. Unit: Not applicable. Period/date: FY2022. Formula: Not applicable. Evidence: [VERIZON_2022_10K, page 22], which states that Verizon invested $23.1 billion in capital expenditures in FY2022, indicating a significant amount of capital spending.",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "doc_name": "VERIZON_2021_10K",
+        "company": "Verizon",
+        "doc_period": "2021",
+        "page_number": 35,
+        "content": "Capital Expenditures \nOur 2022 capital program includes capital to fund advanced networks and services, including expanding our core networks, adding capacity \nand density to our 5G network in order to stay ahead of our customers’ increasing data demands and deploying C-Band, transforming our \nstructure to deploy the Intelligent Edge Network while reducing the cost to deliver services to our customers, and pursuing other opportunities \nto drive operating efficiencies. We expect that the new network architecture will simplify operations by eliminating legacy network elements, \nimprove our 4G LTE coverage, speed the deployment of 5G technology, and create new enterprise opportunities in the business market. We \nanticipate cash requirements for our 2022 capital program to be between $16.5 billion and $17.5 billion. Furthermore, we expect an additional"
+      },
+      {
+        "rank": 2,
+        "doc_name": "VERIZON_2021_10K",
+        "company": "Verizon",
+        "doc_period": "2021",
+        "page_number": 19,
+        "content": "the business market in a cost efficient manner. Our network leadership is the hallmark of our brand and the foundation for the connectivity, \nplatforms and solutions upon which we build our competitive advantage. \nHighlights of Our 2021 Financial Results \n(dollars in millions) \n20\nVerizon 2021 Annual Report on Form 10-K\nOperating Revenues \n$133,613 $128,292 \n2021 2020 \nOperating Income \n$32,448 \n$28,798 \n2021 2020 \nNet Income \n$22,618 \n$18,348 \n2021 2020 \nCash Flows from Operations \n$41,768 $39,539 \n2021 2020 \nCapital Expenditures \n$20,286 \n$18,192 \n2021 2020"
+      },
+      {
+        "rank": 3,
+        "doc_name": "VERIZON_2022_10K",
+        "company": "Verizon",
+        "doc_period": "2022",
+        "page_number": 22,
+        "content": "We continue to invest in our wireless networks, high-speed fiber and other advanced technologies to position ourselves at the \ncenter of growth trends for the future. During the year ended December 31, 2022, these investments included $23.1 billion for \ncapital expenditures, inclusive of approximately $6.2 billion in C-Band related capital expenditures. See \"Cash Flows Used in \nInvesting Activities\" and \"Liquidity and Capital Resources\" for additional information. We believe that our investments aimed at \nexpanding our portfolio of products and services will provide our customers with an efficient, reliable infrastructure for competing \nin the information economy. \nGlobal Network and Technology \nWe are focusing our capital spending on adding capacity and density to our 4G Long-Term Evolution (LTE) network, while also \nbuilding our next generation 5G network. We are densifying our networks by utilizing small cell technology, in-building solutions"
+      },
+      {
+        "rank": 4,
+        "doc_name": "VERIZON_2021_10K",
+        "company": "Verizon",
+        "doc_period": "2021",
+        "page_number": 16,
+        "content": "Verizon has significant debt, which could increase further if Verizon incurs additional debt in the future and does not \nretire existing debt. \nAs of December 31, 2021, Verizon had approximately $136.7 billion of outstanding unsecured indebtedness, $9.4 billion of unused borrowing \ncapacity under our existing revolving credit facility and $14.2 billion of outstanding secured indebtedness. Verizon’s debt level and related \ndebt service obligations could have negative consequences, including: \n• requiring Verizon to dedicate significant cash flow from operations to the payment of principal, interest and other amounts payable \non our debt, which would reduce the funds we have available for other purposes, such as working capital, capital expenditures, \ndividend payments and acquisitions; \n• making it more difficult or expensive for Verizon to obtain any necessary future financing for working capital, capital expenditures,"
+      },
+      {
+        "rank": 5,
+        "doc_name": "VERIZON_2022_10K",
+        "company": "Verizon",
+        "doc_period": "2022",
+        "page_number": 115,
+        "content": "2022. \n \n/s/ Ernst & Young LLP \nErnst & Young LLP \nNew York, New York \nFebruary 10, 2023\nVerizon 2022 Annual Report on Form 10-K"
+      }
+    ],
+    "retrieved_doc_names": [
+      "VERIZON_2021_10K",
+      "VERIZON_2021_10K",
+      "VERIZON_2022_10K",
+      "VERIZON_2021_10K",
+      "VERIZON_2022_10K"
+    ],
+    "retrieved_page_numbers": [
+      35,
+      19,
+      22,
+      16,
+      115
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00283",
+    "RAG_answer": "Answer: $700 million. Unit: USD millions. Period/date: Expected to be incurred in connection with separating Upjohn, with approximately 90% incurred since inception and through the second quarter of 2023. Formula: Not applicable. Evidence: [Pfizer_2023Q2_10Q, page 40].",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "doc_name": "PFIZER_2021_10K",
+        "company": "Pfizer",
+        "doc_period": "2021",
+        "page_number": 70,
+        "content": "to the UpjohnBusiness, with the remainder considered a non-cash activity in the consolidated statement of cash flows for the year ended December 31, 2020. The spin-off also resulted in a netincrease to Accumulated other comprehensive loss of $423 million for the derecognition of net gains on foreign currency translation adjustments of $397 million and prior service net credits associated with benefit plans of $26 million, which were reclassified to Retained earnings . As a result of the separation of Upjohn, we incurred separation-related costs of $434 million in 2020 and $83 million in 2019, which are included in Discontinued operations––net of tax. These costs primarily relate to professional fees for regulatory filings and separation activities within finance, tax, legal and information system functions as well as investmentbanking fees.Pfizer Inc. 2021 Form 10-K 65"
+      },
+      {
+        "rank": 2,
+        "doc_name": "PFIZER_2021_10K",
+        "company": "Pfizer",
+        "doc_period": "2021",
+        "page_number": 75,
+        "content": "Transforming to a More Focused Company ProgramWith the formation of the Consumer Healthcare JV in 2019 and the spin-off of our Upjohn Business in the fourth quarter of 2020, Pfizer has transformed into a more focused, globalleader in science-based innovative medicines and vaccines. We have undertaken efforts to ensure our cost base and support model align appropriately with our new operatingstructure. While certain direct costs transferred to the Consumer Healthcare JV and to the Upjohn Business in connection with the spin-off, there are indirect costs which did nottransfer. This program is primarily composed of the following three initiatives:•We are taking steps to restructure our corporate enabling functions to appropriately support our business, R&D and PGS platform functions. We expect costs, primarily related torestructuring our corporate enabling functions, to total $1.6 billion, with substantially all costs to be cash expenditures. Actions include, among others, changes in"
+      },
+      {
+        "rank": 3,
+        "doc_name": "PFIZER_2021_10K",
+        "company": "Pfizer",
+        "doc_period": "2021",
+        "page_number": 109,
+        "content": "1,731 $926 $810 CONSUMER HEALTHCARE BUSINESS$ —  $— $2,082 Total Alliance revenues$ 7,652 $5,418 $4,648 Total Biosimilars$ 2,343 $1,527 $911 Total Sterile Injectable Pharmaceuticals$ 5,746 $5,315 $5,013 On December 31, 2021, we completed the sale of our Meridian subsidiary. Prior to its sale, Meridian was managed as part of the Hospital therapeutic area. On November 16, 2020, we completed the spin-off and thecombination of our Upjohn Business with Mylan to form Viatris. On December 21, 2020, Pfizer and Viatris completed the termination of the Mylan-Japan collaboration. Beginning in the fourth quarter of 2021, the financialresults of Meridian are reflected as discontinued operations for all periods presented. Beginning in the fourth quarter of 2020, the financial results of the Upjohn Business and Mylan-Japan collaboration were reflected asdiscontinued operations for all periods presented. Prior-period financial information has been restated, as appropriate. See Note 1A .At the"
+      },
+      {
+        "rank": 4,
+        "doc_name": "PFIZER_2021_10K",
+        "company": "Pfizer",
+        "doc_period": "2021",
+        "page_number": 70,
+        "content": "as anindependent publicly traded company, which is traded under the symbol “VTRS” on the NASDAQ.In connection with the Transactions, in June 2020, Upjohn Inc. and Upjohn Finance B.V. completed privately placed debt offerings of $7.45 billion and €3.60 billion aggregate principalamounts, respectively, (approximately $11.4 billion) of senior unsecured notes and entered into other financing arrangements, including a $600 million delayed draw term loanagreement and a revolving credit facility agreement for up to $4.0 billion. Proceeds from the debt offerings and other financing arrangements were used to fund the $12.0 billion cashdistribution Viatris made to Pfizer prior to the Distribution. We used the cash distribution proceeds to pay down commercial paper borrowings and redeem the $1.15 billion aggregateprincipal amount outstanding of our 1.95% senior unsecured notes that were due in June 2021 and $342 million aggregate principal amount outstanding of our 5.80% seniorunsecured notes"
+      },
+      {
+        "rank": 5,
+        "doc_name": "Pfizer_2023Q2_10Q",
+        "company": "Pfizer",
+        "doc_period": "2023",
+        "page_number": 40,
+        "content": "Biopharma is the only reportable segment. See Note 13A.\nWe expect to incur costs of approximately $700 million in connection with separating Upjohn, of which approximately 90% has been incurred since inception\nand through the second quarter of 2023. These charges include costs and expenses related to separation of legal entities and transaction costs.\nIn the fourth quarter of 2022, we began taking steps through our Transforming to a More Focused Company restructuring program to optimize our end-to-end\nR&D operations to reduce costs and cycle times as well as to further prioritize our internal R&D portfolio in areas where our capabilities are differentiated\nwhile increasing external innovation efforts to leverage an expanding and productive biotech sector. See Note 3. For a description of savings related to this\nprogram, see the Costs and Expenses––Restructuring Charges and Other Costs Associated with Acquisitions and Cost-Reduction/Productivity Initiatives\nsection within MD&A."
+      }
+    ],
+    "retrieved_doc_names": [
+      "PFIZER_2021_10K",
+      "PFIZER_2021_10K",
+      "PFIZER_2021_10K",
+      "PFIZER_2021_10K",
+      "Pfizer_2023Q2_10Q"
+    ],
+    "retrieved_page_numbers": [
+      70,
+      75,
+      109,
+      70,
+      40
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00288",
+    "RAG_answer": "The context does not contain enough information.",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "doc_name": "BESTBUY_2023_10K",
+        "company": "Best Buy",
+        "doc_period": "2023",
+        "page_number": 28,
+        "content": "January 28, 2023  January 29, 2022\nCash and cash equivalents $  1,874   $  2,936  \n \n \nThe decrease in cash and cash equivalents in fiscal 2023 was primarily driven by share repurchases, capital expenditures and dividend payments. These decreases were partially offset by positive cash flows from operations, primarily driven by earnings.  Our cash deposits held at financial institutions may exceed the amount of insurance provided on such deposits. Generally, these deposits may be redeemed upon demand and are maintained with financial institutions with reputable credit. We limit exposure relating to financial instruments by diversifying the financial instruments among various counterparties, which consist primarily of major financial institutions. Cash Flows \nCash flows were as follows ($ in millions):\n  \n            \n 2023  2022  2021\nTotal cash provided by (used in):            \nOperating activities $  1,824   $  3,252   $  4,927"
+      },
+      {
+        "rank": 2,
+        "doc_name": "BESTBUY_2024Q2_10Q",
+        "company": "Best Buy",
+        "doc_period": "2024",
+        "page_number": 19,
+        "content": "July 29, 2023  January 28, 2023  July 30, 2022\nCash and cash equivalents     $  1,093   $  1,874   $  840  \n The decrease in cash and cash equivalents from January 28, 2023, was primarily due to the timing and volume of inventory purchases and payments, dividend payments and capital expenditures, partially offset by earnings.  20"
+      },
+      {
+        "rank": 3,
+        "doc_name": "JOHNSON_JOHNSON_2022_10K",
+        "company": "Johnson & Johnson",
+        "doc_period": "2022",
+        "page_number": 36,
+        "content": "For discussion related to the fiscal 2022 provision for taxes refer to Note 8 to the Consolidated Financial Statements.\nLiquidity and Capital Resources\nLiquidity & Cash Flows\nCash and cash equivalents were $14.1 billion at the end of 2022 as compared to $14.5 billion at the end of 2021.\nThe primary sources and uses of cash that contributed to the $0.4 billion decrease were:\n(Dollars In Billions)\n$ 14.5 Q4 2021 Cash and cash equivalents balance\n21.2 cash generated from operating activities\n(12.4)net cash used by investing activities\n(8.9)net cash used by financing activities\n$ (0.3)effect of exchange rate and rounding\n$ 14.1 Q4 2022 Cash and cash equivalents balance\nIn addition, the Company had $9.4 billion in marketable securities at the end of fiscal year 2022 and $17.1 billion at the end of fiscal year 2021. See Note 1\nto the Consolidated Financial Statements for additional details on cash, cash equivalents and marketable securities.\n31"
+      },
+      {
+        "rank": 4,
+        "doc_name": "CVSHEALTH_2022_10K",
+        "company": "CVS Health",
+        "doc_period": "2022",
+        "page_number": 88,
+        "content": "by the parent company or nonrestricted subsidiaries.\nThe net change in cash, cash equivalents and restricted cash for the years ended December 31, 2022, 2021 and 2020 was as follows:\nChange\nYear Ended December 31, 2022 vs. 2021 2021 vs. 2020\nIn millions 2022 2021 2020 $ % $ %\nNet cash provided by operating activities $ 16,177 $ 18,265 $ 15,865 $ (2,088) (11.4)% $ 2,400 15.1 %\nNet cash used in investing activities (5,047) (5,261) (5,534) 214 4.1 % 273 4.9 %\nNet cash used in financing activities (10,516) (11,356) (7,696) 840 7.4 % (3,660) (47.6)%\nNet increase in cash, cash equivalents and restrictedcash $ 614 $ 1,648 $ 2,635 $ (1,034) (62.7)% $ (987) (37.5)%\nCommentary - 2022 compared to 2021\n• Net cash provided by operating activities decreased by $2.1 billion in 2022 compared to 2021 primarily due to the timing of payments and higher\ninventory purchases."
+      },
+      {
+        "rank": 5,
+        "doc_name": "VERIZON_2022_10K",
+        "company": "Verizon",
+        "doc_period": "2022",
+        "page_number": 61,
+        "content": "2022, 2021, and 2020, respectively. \nCash, Cash Equivalents and Restricted Cash \nWe consider all highly liquid investments with an original maturity of 90 days or less when purchased to be cash equivalents. \nCash equivalents are stated at cost, which approximates quoted market value and includes amounts held in money market \nfunds. \nCash collections on the receivables collateralizing our asset-backed debt securities are required at certain specified times to be \nplaced into segregated accounts. Deposits to the segregated accounts are considered restricted cash and are included in \nPrepaid expenses and other and Other assets in our consolidated balance sheets. \nCash, cash equivalents and restricted cash are included in the following line items in the consolidated balance sheets: \n(dollars in millions) \nAt December 31, 2022 2021 \nIncrease / \n(Decrease) \nCash and cash equivalents $ 2,605 $ 2,921 $ (316) \nRestricted cash: \nPrepaid expenses and other 1,343 1,094 249"
+      }
+    ],
+    "retrieved_doc_names": [
+      "BESTBUY_2023_10K",
+      "BESTBUY_2024Q2_10Q",
+      "JOHNSON_JOHNSON_2022_10K",
+      "CVSHEALTH_2022_10K",
+      "VERIZON_2022_10K"
+    ],
+    "retrieved_page_numbers": [
+      28,
+      19,
+      36,
+      88,
+      61
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00299",
+    "RAG_answer": "The context does not contain enough information.",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "doc_name": "BESTBUY_2023_10K",
+        "company": "Best Buy",
+        "doc_period": "2023",
+        "page_number": 61,
+        "content": "2023  2022  2021\nRevenue by reportable segment            \nDomestic $  42,794   $  47,830   $  43,293  \nInternational   3,504     3,931     3,969  \nTotal revenue $  46,298   $  51,761   $  47,262  \n  \n62"
+      },
+      {
+        "rank": 2,
+        "doc_name": "3M_2022_10K",
+        "company": "3M",
+        "doc_period": "2022",
+        "page_number": 122,
+        "content": "T\nable of \nContents\nBusiness Segment Information\n(Millions)\nNet Sales\n2022\n2021\n2020\nSafety and Industrial\n$\n11,604\n \n$\n11,981\n \n$\n10,972\n \nTransportation and Electronics\n8,902\n \n9,262\n \n8,406\n \nHealth Care\n8,421\n \n8,597\n \n7,832\n \nConsumer\n5,298\n \n5,513\n \n4,976\n \nCorporate and Unallocated\n4\n \n2\n \n(\n2\n)\nTotal Company\n$\n34,229\n \n$\n35,355\n \n$\n32,184\n \nOperating Performance\n2022\n2021\n2020\nSafety and Industrial\n$\n1,199\n \n$\n2,466\n \n$\n2,588\n \nTransportation and Electronics\n1,012\n \n1,880\n \n1,701\n \nHealth Care\n1,815\n \n2,037\n \n1,662\n \nConsumer\n994\n \n1,162\n \n1,119\n \nTotal business segment operating income\n5,020\n \n7,545\n \n7,070\n \nCorporate and Unallocated\nCorporate special items:\nNet costs for significant litigation\n(\n877\n)\n(\n214\n)\n(\n148\n)\nDivestiture costs\n(\n60\n)\n—\n \n—\n \nGain on business divestitures\n2,724\n \n—\n \n389\n \nDivestiture-related restructuring actions\n(\n41\n)\n—\n \n(\n55\n)\nRussia exit charges\n(\n109\n)\n—\n \n—\n \nTotal corporate special items\n1,637\n \n(\n214\n)\n186\n \nOther corporate expense - net\n("
+      },
+      {
+        "rank": 3,
+        "doc_name": "VERIZON_2021_10K",
+        "company": "Verizon",
+        "doc_period": "2021",
+        "page_number": 22,
+        "content": "Consolidated Revenues \n(dollars in millions) \nIncrease/(Decrease) \nYears Ended December 31, 2021 2020 2021 vs. 2020 \nConsumer $ 95,300 $ 88,533 $ 6,767  7.6 % \nBusiness 31,042 30,962 80  0.3 \nCorporate and other 7,722 9,334 (1,612)  (17.3) \nEliminations (451) (537) 86  (16.0) \nConsolidated Revenues $ 133,613 $ 128,292 $ 5,321  4.1 \nConsolidated revenues increased during 2021 compared to 2020, due to increases in our Consumer and Business segments, partially offset by \na decrease in Corporate and other. \nCorporate and other revenues decreased during 2021 compared to 2020, primarily due to a decrease of $1.7 billion within Verizon Media. We \nhad four less months of operating revenues from Verizon Media as a result of the sale completed on September 1, 2021. See Note 3 to the \nconsolidated financial statements for additional information on the Verizon Media sale. \nRevenues for our segments are discussed separately below under the heading \"Segment Results of Operations.\""
+      },
+      {
+        "rank": 4,
+        "doc_name": "BESTBUY_2023_10K",
+        "company": "Best Buy",
+        "doc_period": "2023",
+        "page_number": 24,
+        "content": "In fiscal 2023, we generated $46.3 billion in revenue and our comparable sales declined 9.9%. Our comparable sales decline was due to multiple factors, including the following: (1) the lapping of strong sales in fiscal 2022 and fiscal 2021 that were driven by heightened demand during the pandemic for stay-at-home focused purchases and the benefit of government stimulus payments; (2) the shift of consumer spending back into service areas such as travel and entertainment and away from durable goods; and (3) macroeconomic pressures, including high inflation, that resulted in overall softness in customer demand within the consumer electronics industry. Revenue, gross profit rate, SG&A and operating income rate changes in fiscal 2023 were primarily driven by our Domestic segment. For further discussion of each segment’s rate changes, see Segment Performance Summary, below. Segment Performance Summary Domestic Segment Selected financial data for the Domestic segment was as follows ($ in"
+      },
+      {
+        "rank": 5,
+        "doc_name": "PFIZER_2021_10K",
+        "company": "Pfizer",
+        "doc_period": "2021",
+        "page_number": 11,
+        "content": "fastest-growing emerging markets are becoming more closely aligned with the profile foundwithin developed markets. Urbanization and the rise of the middle class in emerging markets provide potential growth opportunities for our products.Revenues from operations outside the U.S. of $51.5 billion accounted for 63% of our total revenues in 2021. Revenues exceeded $500 million in each of 21, 8 and 10 countriesoutside the U.S. in 2021, 2020 and 2019, respectively, with the increase in the number of countries in 2021 primarily driven by Comirnaty/BNT162b2. By total revenues, Japan wasour largest national market outside the U.S. in 2021. For a geographic breakdown of revenues, see the Analysis of the Consolidated Statements of Income — Revenues by Geographysection within MD&A and the table captioned Geographic Information  in Note 17B."
+      }
+    ],
+    "retrieved_doc_names": [
+      "BESTBUY_2023_10K",
+      "3M_2022_10K",
+      "VERIZON_2021_10K",
+      "BESTBUY_2023_10K",
+      "PFIZER_2021_10K"
+    ],
+    "retrieved_page_numbers": [
+      61,
+      122,
+      22,
+      24,
+      11
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00302",
+    "RAG_answer": "The context does not contain enough information.",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "doc_name": "PFIZER_2021_10K",
+        "company": "Pfizer",
+        "doc_period": "2021",
+        "page_number": 135,
+        "content": "Pfizer Oy"
+      },
+      {
+        "rank": 2,
+        "doc_name": "PFIZER_2021_10K",
+        "company": "Pfizer",
+        "doc_period": "2021",
+        "page_number": 133,
+        "content": "Pfizer (Wuhan) Research and Development Co. Ltd."
+      },
+      {
+        "rank": 3,
+        "doc_name": "PFIZER_2021_10K",
+        "company": "Pfizer",
+        "doc_period": "2021",
+        "page_number": 134,
+        "content": "Pfizer Healthcare India Private Limited"
+      },
+      {
+        "rank": 4,
+        "doc_name": "PFIZER_2021_10K",
+        "company": "Pfizer",
+        "doc_period": "2021",
+        "page_number": 110,
+        "content": "in Revenues  in 2023 and in the first quarter of 2024. Deferred revenues associated with contracts for other products werenot significant as of December 31, 2021 or 2020.Pfizer Inc. 2021 Form 10-K 105"
+      },
+      {
+        "rank": 5,
+        "doc_name": "Pfizer_2023Q2_10Q",
+        "company": "Pfizer",
+        "doc_period": "2023",
+        "page_number": 40,
+        "content": "operational variances excluding these foreign exchange changes provides useful information to evaluate our results.\nOVERVIEW OF OUR PERFORMANCE, OPERATING ENVIRONMENT, STRATEGY AND OUTLOOK\nOur Business and Strategy––Pfizer Inc. is a research-based, global biopharmaceutical company. We apply science and our global resources to bring therapies\nto people that extend and significantly improve their lives. In 2023, we are making additional investments in both R&D and SI&A to support Pfizer’s near- and\nlonger-term growth plans, including to support anticipated new launches, commercial launch of COVID-19 products, potential pipeline programs and recently\nacquired assets. We manage our commercial operations through a global structure consisting of two operating segments: Biopharma and Business Innovation.\nBiopharma is the only reportable segment. See Note 13A."
+      }
+    ],
+    "retrieved_doc_names": [
+      "PFIZER_2021_10K",
+      "PFIZER_2021_10K",
+      "PFIZER_2021_10K",
+      "PFIZER_2021_10K",
+      "Pfizer_2023Q2_10Q"
+    ],
+    "retrieved_page_numbers": [
+      135,
+      133,
+      134,
+      110,
+      40
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00382",
+    "RAG_answer": "Answer: Las Vegas Strip Resorts had the highest EBITDAR contribution of $3,142,308. Unit: USD thousands. Period/date: FY2022. Formula: Not applicable. Evidence: [MGMRESORTS_2022_10K, page 40], [MGMRESORTS_2022_10K, page 99].",
+    "retrieved_chunks": [
+      {
+        "rank": 1,
+        "doc_name": "MGMRESORTS_2022_10K",
+        "company": "MGM Resorts",
+        "doc_period": "2022",
+        "page_number": 40,
+        "content": "Regional Operations\nRegional Operations Adjusted Property EBITDAR was $1.3 billion in 2022 compared to $1.2 billion in 2021, an increase of 6%. Regional OperationsAdjusted Property EBITDAR margin decreased to 33.9% in 2022 compared to 35.9% in 2021. The margin decrease was due primarily to an increase in\ncontribution from lower margin non-gaming outlets and venues.\nMGM China\nMGM China’s Adjusted Property EBITDAR was a loss of $203 million in 2022 compared to Adjusted Property EBITDAR of $25 million in 2021. The\ndecrease was due primarily the decrease in revenues, discussed above, and the current year period included an $18 million charge related to litigation reserves.License fee expense was $12 million for 2022 and $21 million in the prior year.\nSupplemental Information - Same-store Results of Operations\nThe following table presents the financial results of Las Vegas Strip Resorts on a same-store basis for the periods presented below. Same-Store Adjusted"
+      },
+      {
+        "rank": 2,
+        "doc_name": "MGMRESORTS_2022_10K",
+        "company": "MGM Resorts",
+        "doc_period": "2022",
+        "page_number": 40,
+        "content": "“Reportable Segment GAAP measure” below for additional information. Adjusted EBITDAR is a non-GAAP measure, discussed within “Non-GAAP\nmeasures” below.\n Year Ended December 31,\n 2022 2021 2020\n (In thousands)\nLas Vegas Strip Resorts $ 3,142,308 $ 1,738,211 $ 232,188 \nRegional Operations 1,294,630 1,217,814 343,990 \nMGM China (203,136) 25,367 (193,832)\nCorporate and other (736,548) (560,309) (530,843)\nAdjusted EBITDAR $ 3,497,254 \nLas Vegas Strip Resorts\nLas Vegas Strip Resorts Adjusted Property EBITDAR was $3.1 billion in 2022 compared to $1.7 billion in 2021, an increase of 81%. Las Vegas StripResorts Adjusted Property EBITDAR margin increased to 37.4% in 2022 compared to 36.7% in 2021. The current year benefited from the increase in revenues,partially offset by increases in contribution from lower-margin non-gaming outlets and venues and promotional activities.\nRegional Operations"
+      },
+      {
+        "rank": 3,
+        "doc_name": "MGMRESORTS_2023Q2_10Q",
+        "company": "MGM Resorts",
+        "doc_period": "2023",
+        "page_number": 31,
+        "content": "MGM China\nMGM China Adjusted Property EBITDAR was $209 million for the three months ended June 30, 2023 compared to Adjusted Property EBITDAR loss\nof $52 million the prior year quarter due primarily to the increase in revenues, discussed above.\nMGM China Adjusted Property EBITDAR was $378 million for the six months ended June 30, 2023 compared to Adjusted Property EBITDAR loss of\n$78 million in the prior year period. The increase was due primarily to the increase in revenues, discussed above, and the prior year period included an $18\nmillion charge related to litigation reserves.\nSupplemental Information - Same-store Results of Operations\nThe following table presents the financial results of Las Vegas Strip Resorts and Regional Operations on a same-store basis for the three and six months\nended June 30, 2023 and 2022. Same-Store Adjusted Property EBITDAR is a non-GAAP measure, discussed within “Non-GAAP measures” below.\n \nThree Months EndedJune 30, Six Months EndedJune 30,"
+      },
+      {
+        "rank": 4,
+        "doc_name": "MGMRESORTS_2022_10K",
+        "company": "MGM Resorts",
+        "doc_period": "2022",
+        "page_number": 99,
+        "content": "Year Ended December 31,\n2022 2021 2020\n(In thousands)\nAdjusted Property EBITDAR\nLas Vegas Strip Resorts $ 3,142,308 $ 1,738,211 $ 232,188 \nRegional Operations 1,294,630 1,217,814 343,990 \nMGM China (203,136) 25,367 (193,832)\nReportable segment Adjusted Property EBITDAR 4,233,802 2,981,392 382,346 \n \nOther operating income (expense)\nCorporate and other, net (736,548) (560,309) (530,843)\nPreopening and start-up expenses (1,876) (5,094) (84)\nProperty transactions, net 1,036,997 67,736 (93,567)\nDepreciation and amortization (3,482,050) (1,150,610) (1,210,556)\nGain on REIT transactions, net 2,277,747 — 1,491,945 \nGain on consolidation of CityCenter, net — 1,562,329 — \nCEO transition expense — — (44,401)\nOctober 1 litigation settlement — — (49,000)\nRestructuring — — (26,025)\nTriple-net operating lease and ground lease rent expense (1,950,566) (833,158) (710,683)\nGain related to sale of Harmon land - unconsolidated affiliate — 49,755 —"
+      },
+      {
+        "rank": 5,
+        "doc_name": "MGMRESORTS_2022Q4_EARNINGS",
+        "company": "MGM Resorts",
+        "doc_period": "2022",
+        "page_number": 3,
+        "content": "Page 4 of 15 \n \n \n• Same-Store Adjusted Property EBITDAR of $2.1 billion in the current year compared to $1.5 \nbillion in the prior year, an increase of 42%; and \n• Adjusted Property EBITDAR margin  of 37.4% in the current year compared to 36.7% in the \nprior year, an increase of 72 basis points. \n \nRegional Operations \n \n• Net revenues of $3.8 billion in the current year compared to $3.4 billion in the prior year, an \nincrease of 12%; \n• Adjusted Property EBITDAR of $1.3 billion in the current year compared to $1.2 billion in the \nprior year, an increase of 6%; and \n• Adjusted Property EBITDAR margin of 33.9% in the current year compared to 35.9% in the \nprior year, a decrease of 197 basis points due primarily to an increase in contribution from lower-\nmargin non-gaming outlets and venues. \n \nMGM China \n \n• Net revenues of $674 million in the current year compared to $1.2 billion in the prior year, a \ndecrease of 44%; and"
+      }
+    ],
+    "retrieved_doc_names": [
+      "MGMRESORTS_2022_10K",
+      "MGMRESORTS_2022_10K",
+      "MGMRESORTS_2023Q2_10Q",
+      "MGMRESORTS_2022_10K",
+      "MGMRESORTS_2022Q4_EARNINGS"
+    ],
+    "retrieved_page_numbers": [
+      40,
+      40,
+      31,
+      99,
+      3
+    ]
+  }
+]

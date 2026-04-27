@@ -1,0 +1,702 @@
+[
+  {
+    "financebench_id": "financebench_id_00005",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is incorrect as it fails to provide the correct working capital information."
+  },
+  {
+    "financebench_id": "financebench_id_00070",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides a specific numerical value."
+  },
+  {
+    "financebench_id": "financebench_id_00080",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer's calculation of $12,416 million is incorrect and does not match the gold answer's figure of $1.6 billion."
+  },
+  {
+    "financebench_id": "financebench_id_00206",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer fails to address the question and does not state that gross margin is not a relevant metric for a financial institution."
+  },
+  {
+    "financebench_id": "financebench_id_00215",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "correct",
+    "correctness_justification": "The model answer correctly identifies Verizon as capital intensive based on capital expenditures, aligning with the gold answer's conclusion."
+  },
+  {
+    "financebench_id": "financebench_id_00216",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides a specific ratio and conclusion."
+  },
+  {
+    "financebench_id": "financebench_id_00222",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides a specific ratio and calculation."
+  },
+  {
+    "financebench_id": "financebench_id_00283",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer of 700 million USD does not match the gold answer of 77.78 million USD."
+  },
+  {
+    "financebench_id": "financebench_id_00288",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, not a direct match to the gold answer."
+  },
+  {
+    "financebench_id": "financebench_id_00299",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides a specific segment and figure."
+  },
+  {
+    "financebench_id": "financebench_id_00302",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides a clear affirmative response."
+  },
+  {
+    "financebench_id": "financebench_id_00382",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "correct",
+    "correctness_justification": "The model answer correctly identifies Las Vegas Strip Resorts as the region with the highest EBITDAR contribution, matching the gold answer's focus on Las Vegas resorts."
+  },
+  {
+    "financebench_id": "financebench_id_00394",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides a specific segment and net income."
+  },
+  {
+    "financebench_id": "financebench_id_00407",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "correct",
+    "correctness_justification": "The model answer correctly identifies corporate bonds as the largest short-term investment, matching the gold answer."
+  },
+  {
+    "financebench_id": "financebench_id_00438",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "correct",
+    "correctness_justification": "The model answer correctly states that Adobe's operating margin declined from 36.8% to 34.6% in FY2022, matching the gold answer's conclusion."
+  },
+  {
+    "financebench_id": "financebench_id_00460",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer incorrectly states the store count and direction of change, contradicting the gold answer's data and trend."
+  },
+  {
+    "financebench_id": "financebench_id_00464",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "correct",
+    "correctness_justification": "The model answer correctly states that Boeing's business is subject to cyclicality, matching the gold answer."
+  },
+  {
+    "financebench_id": "financebench_id_00476",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal, while the gold answer is a factual statement."
+  },
+  {
+    "financebench_id": "financebench_id_00494",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is incomplete and does not cover all the production rate changes Boeing forecasted for FY2023."
+  },
+  {
+    "financebench_id": "financebench_id_00499",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer does not provide a clear yes/no answer and does not match the gold answer's analysis of capital intensity."
+  },
+  {
+    "financebench_id": "financebench_id_00517",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "correct",
+    "correctness_justification": "The model answer correctly identifies the categories and percentages, matching the gold answer."
+  },
+  {
+    "financebench_id": "financebench_id_00521",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, not a direct answer to the question."
+  },
+  {
+    "financebench_id": "financebench_id_00540",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides a specific inventory turnover ratio."
+  },
+  {
+    "financebench_id": "financebench_id_00552",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal, while the gold answer provides a specific numerical comparison."
+  },
+  {
+    "financebench_id": "financebench_id_00563",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "correct",
+    "correctness_justification": "The model answer correctly identifies the Data Center segment as having the largest proportional sales increase, matching the gold answer."
+  },
+  {
+    "financebench_id": "financebench_id_00566",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "correct",
+    "correctness_justification": "The model answer correctly states that Verizon's debt decreased, matching the gold answer's direction and magnitude."
+  },
+  {
+    "financebench_id": "financebench_id_00585",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides the requested comparison."
+  },
+  {
+    "financebench_id": "financebench_id_00591",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides a specific comparison."
+  },
+  {
+    "financebench_id": "financebench_id_00601",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides a specific reason for the reduction."
+  },
+  {
+    "financebench_id": "financebench_id_00603",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal, while the gold answer provides a specific reason."
+  },
+  {
+    "financebench_id": "financebench_id_00605",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal, not a percentage."
+  },
+  {
+    "financebench_id": "financebench_id_00606",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides a specific increase."
+  },
+  {
+    "financebench_id": "financebench_id_00651",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer incorrectly states growth will accelerate, while the gold answer states it will decelerate."
+  },
+  {
+    "financebench_id": "financebench_id_00669",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides specific drivers of gross margin change."
+  },
+  {
+    "financebench_id": "financebench_id_00678",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer incorrectly states that gross margin is not explicitly stated and fails to provide the correct margin data, while the gold answer confirms an improving margin with specific figures."
+  },
+  {
+    "financebench_id": "financebench_id_00684",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is incorrect as it fails to provide the correct financial analysis."
+  },
+  {
+    "financebench_id": "financebench_id_00685",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides a specific response."
+  },
+  {
+    "financebench_id": "financebench_id_00702",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "correct",
+    "correctness_justification": "The model answer correctly identifies the event and matches the gold answer."
+  },
+  {
+    "financebench_id": "financebench_id_00705",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "correct",
+    "correctness_justification": "The model answer correctly states the increase amount as $400,000,000, matching the gold answer."
+  },
+  {
+    "financebench_id": "financebench_id_00711",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides a specific numerical ratio."
+  },
+  {
+    "financebench_id": "financebench_id_00720",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a generic non-answer, while the gold answer provides the specific required information."
+  },
+  {
+    "financebench_id": "financebench_id_00723",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides a direct statement."
+  },
+  {
+    "financebench_id": "financebench_id_00724",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides a specific region."
+  },
+  {
+    "financebench_id": "financebench_id_00735",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer does not provide a definitive answer, while the gold answer states there are no material legal battles."
+  },
+  {
+    "financebench_id": "financebench_id_00746",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, not a substantive response."
+  },
+  {
+    "financebench_id": "financebench_id_00757",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer incorrectly states that AMD reported customer concentration in FY22, but the gold answer specifies that one customer accounted for 16% of revenue, which is a specific detail not mentioned in the model answer."
+  },
+  {
+    "financebench_id": "financebench_id_00790",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides a clear response."
+  },
+  {
+    "financebench_id": "financebench_id_00799",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is incorrect as the gold answer provides the specific improvement in the quick ratio."
+  },
+  {
+    "financebench_id": "financebench_id_00807",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides a specific numeric assessment."
+  },
+  {
+    "financebench_id": "financebench_id_00822",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "correct",
+    "correctness_justification": "The model answer correctly identifies Richard A. Johnson as the nominee with substantially more votes against."
+  },
+  {
+    "financebench_id": "financebench_id_00839",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "correct",
+    "correctness_justification": "The model answer correctly states that the new CEO has previous CEO experience at Ulta Beauty, which matches the gold answer's requirement of CEO experience in a similar retail company."
+  },
+  {
+    "financebench_id": "financebench_id_00859",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "correct",
+    "correctness_justification": "The model answer correctly identifies cross currency swaps as the instrument with the highest notional value, matching the gold answer."
+  },
+  {
+    "financebench_id": "financebench_id_00882",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "correct",
+    "correctness_justification": "The model answer correctly states the total amount as $8,400,000,000, matching the gold answer."
+  },
+  {
+    "financebench_id": "financebench_id_00917",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides a specific reason for the margin change."
+  },
+  {
+    "financebench_id": "financebench_id_00941",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides specific debt securities."
+  },
+  {
+    "financebench_id": "financebench_id_00956",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides a clear conclusion."
+  },
+  {
+    "financebench_id": "financebench_id_00995",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "correct",
+    "correctness_justification": "The model answer provides a detailed and accurate list of AMD's products and services as of FY22, matching the gold answer's scope and categories."
+  },
+  {
+    "financebench_id": "financebench_id_01009",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a generic statement about PepsiCo's global presence, while the gold answer lists specific geographic regions."
+  },
+  {
+    "financebench_id": "financebench_id_01028",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer lists specific countries and regions that do not match the gold answer's regional groupings."
+  },
+  {
+    "financebench_id": "financebench_id_01077",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides specific acquisition details."
+  },
+  {
+    "financebench_id": "financebench_id_01079",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides specific acquisitions."
+  },
+  {
+    "financebench_id": "financebench_id_01091",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "correct",
+    "correctness_justification": "The model answer correctly identifies ongoing legal battles from FY2022, matching the gold answer's mention of lawsuits from the 2018 and 2019 crashes."
+  },
+  {
+    "financebench_id": "financebench_id_01107",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is missing the specific legal battle areas and financial details provided in the gold answer."
+  },
+  {
+    "financebench_id": "financebench_id_01148",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "correct",
+    "correctness_justification": "The model answer correctly identifies the packaging industry, matching the gold answer's description of packaging production."
+  },
+  {
+    "financebench_id": "financebench_id_01163",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "correct",
+    "correctness_justification": "The model answer correctly identifies operations as the activity that brought in the most cash flow, matching the gold answer."
+  },
+  {
+    "financebench_id": "financebench_id_01198",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer provides a quantitative breakdown by segment, while the gold answer specifies the specific product lines that drove revenue."
+  },
+  {
+    "financebench_id": "financebench_id_01226",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides a specific explanation."
+  },
+  {
+    "financebench_id": "financebench_id_01244",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "correct",
+    "correctness_justification": "The model answer correctly states that CVS Health paid dividends in Q2 of FY2022, matching the gold answer's confirmation of quarterly dividends."
+  },
+  {
+    "financebench_id": "financebench_id_01254",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "correct",
+    "correctness_justification": "The model answer correctly states that dividends were paid, matching the gold answer."
+  },
+  {
+    "financebench_id": "financebench_id_01275",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides the correct information."
+  },
+  {
+    "financebench_id": "financebench_id_01279",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is incorrect as it fails to provide the correct cash flow activity."
+  },
+  {
+    "financebench_id": "financebench_id_01290",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides specific information."
+  },
+  {
+    "financebench_id": "financebench_id_01319",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, not a numerical value."
+  },
+  {
+    "financebench_id": "financebench_id_01328",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "correct",
+    "correctness_justification": "The model answer matches the gold answer in both the amount and the unit."
+  },
+  {
+    "financebench_id": "financebench_id_01346",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "correct",
+    "correctness_justification": "The model answer correctly states the effective tax rate increased by 3 percentage points, matching the gold answer."
+  },
+  {
+    "financebench_id": "financebench_id_01351",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "correct",
+    "correctness_justification": "The model answer correctly states the effective tax rate decreased by 3 percentage points, matching the gold answer's 24.6% to 21.6% change."
+  },
+  {
+    "financebench_id": "financebench_id_01474",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "correct",
+    "correctness_justification": "The model answer provides specific metrics supporting the strong start, aligning with the gold answer's reason for raising guidance."
+  },
+  {
+    "financebench_id": "financebench_id_01476",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "correct",
+    "correctness_justification": "The model answer correctly states a 1 percentage point increase, matching the gold answer."
+  },
+  {
+    "financebench_id": "financebench_id_01482",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal and does not provide the required information."
+  },
+  {
+    "financebench_id": "financebench_id_01484",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer's US growth of 3.3% and international growth of -0.2% do not match the gold answer's 3.0% and -0.6%."
+  },
+  {
+    "financebench_id": "financebench_id_01487",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides a specific comparison."
+  },
+  {
+    "financebench_id": "financebench_id_01488",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides the correct business segment."
+  },
+  {
+    "financebench_id": "financebench_id_01490",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides a specific figure."
+  },
+  {
+    "financebench_id": "financebench_id_01491",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "correct",
+    "correctness_justification": "The model answer correctly states the cash proceeds as $13.2 billion, matching the gold answer."
+  },
+  {
+    "financebench_id": "financebench_id_01858",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "correct",
+    "correctness_justification": "The model answer correctly states 3M's stable dividend trend and 65 years of increases, matching the gold answer."
+  },
+  {
+    "financebench_id": "financebench_id_01865",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides a specific segment."
+  },
+  {
+    "financebench_id": "financebench_id_01902",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer incorrectly identifies Computing and Mobile Phones as the best performer, while the gold answer specifies the entertainment segment had the highest growth."
+  },
+  {
+    "financebench_id": "financebench_id_01911",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer incorrectly calculates a positive ratio, while the gold answer states the ratio is zero due to negative adjusted EBIT."
+  },
+  {
+    "financebench_id": "financebench_id_01912",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "correct",
+    "correctness_justification": "The model answer correctly identifies MGM China as the region with the worst topline performance, matching the gold answer."
+  },
+  {
+    "financebench_id": "financebench_id_01928",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer does not provide the Adjusted Non-GAAP EBITDA figure requested, instead providing Adjusted EBIT, which is a different metric."
+  },
+  {
+    "financebench_id": "financebench_id_01930",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer states 1% growth, but the gold answer states flat growth (0%)."
+  },
+  {
+    "financebench_id": "financebench_id_01935",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides the required information."
+  },
+  {
+    "financebench_id": "financebench_id_01936",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer incorrectly states the purpose and composition of the restructuring liability, while the gold answer specifies that 87% is for employee liabilities."
+  },
+  {
+    "financebench_id": "financebench_id_01964",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides a specific liability."
+  },
+  {
+    "financebench_id": "financebench_id_01981",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal, not a direct answer to the question."
+  },
+  {
+    "financebench_id": "financebench_id_02024",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal, while the gold answer provides specific figures."
+  },
+  {
+    "financebench_id": "financebench_id_02049",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "correct",
+    "correctness_justification": "The model answer correctly states that the risk decreased, matching the gold answer."
+  },
+  {
+    "financebench_id": "financebench_id_02119",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal, while the gold answer provides a specific dollar amount."
+  },
+  {
+    "financebench_id": "financebench_id_02416",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides specific company names."
+  },
+  {
+    "financebench_id": "financebench_id_02419",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "correctness": "incorrect",
+    "correctness_justification": "The model answer is a refusal to answer, while the gold answer provides a specific response."
+  }
+]

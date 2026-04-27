@@ -1,0 +1,47 @@
+.DS_Store
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+.jupyter/
+*.egg-info/
+build/
+dist/
+*.log
+~$*.xlsx
+run_logs/
+
+# Local secrets; keep .env.template committed as the example file.
+.env
+.env.*
+!.env.template
+
+# Local working data and downloaded model/index caches.
+data/*
+!data/.gitkeep
+!data/cacert.pem
+!data/nebius_msp_ca.pem
+source_materials/
+
+# Keep FAISS JSON artifacts in git for result auditing; ignore transient binary byproducts only.
+rag_faiss/artifacts/**/*.pkl
+!rag_faiss/artifacts/.gitkeep
+
+# Final FAISS deliverables only; rag_faiss/outputs/ should contain root-level .xlsx files.
+rag_faiss/outputs/*
+!rag_faiss/outputs/.gitkeep
+!rag_faiss/outputs/*.xlsx
+
+# Regenerated optional pgvector raw artifacts; keep JSON run records in git.
+rag_pgvector/artifacts/*
+!rag_pgvector/artifacts/.gitkeep
+!rag_pgvector/artifacts/*.json
+
+# Final optional pgvector report workbooks are small enough to keep.
+rag_pgvector/outputs/*
+!rag_pgvector/outputs/.gitkeep
+!rag_pgvector/outputs/*.xlsx

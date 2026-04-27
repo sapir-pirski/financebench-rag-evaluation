@@ -1,0 +1,902 @@
+[
+  {
+    "financebench_id": "financebench_id_00005",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "not_applicable",
+    "support_justification": "The model answer states the context lacks information, and the retrieved context indeed contains no data on working capital."
+  },
+  {
+    "financebench_id": "financebench_id_00070",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "valid",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context lacks the current assets needed to calculate working capital."
+  },
+  {
+    "financebench_id": "financebench_id_00080",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "valid",
+    "support_justification": "The answer's numeric values and citation match the retrieved context."
+  },
+  {
+    "financebench_id": "financebench_id_00206",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain any information about JPM's gross margins or their historical consistency."
+  },
+  {
+    "financebench_id": "financebench_id_00215",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "unsupported",
+    "citation_status": "invalid",
+    "numeric_status": "valid",
+    "support_justification": "The model answer cites a 2021 10-K for 2022 capital expenditure, but the retrieved context for 2022 shows $23.1 billion, not the $16.5-$17.5 billion range from the 2021 10-K."
+  },
+  {
+    "financebench_id": "financebench_id_00216",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain the quick ratio or liquidity information needed to answer the question."
+  },
+  {
+    "financebench_id": "financebench_id_00222",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain any information about AMD's quick ratio or liquidity profile for FY22."
+  },
+  {
+    "financebench_id": "financebench_id_00283",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "unsupported",
+    "citation_status": "valid",
+    "numeric_status": "invalid",
+    "support_justification": "The model answer's numeric claim of $700 million is not supported by the retrieved context, which states the total expected cost is $700 million, not $700 million in FY2023."
+  },
+  {
+    "financebench_id": "financebench_id_00288",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "unsupported",
+    "citation_status": "valid",
+    "numeric_status": "valid",
+    "support_justification": "The context shows cash decreased from $1,874M to $1,093M, contradicting the model's claim of insufficient information."
+  },
+  {
+    "financebench_id": "financebench_id_00299",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "valid",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain segment-level net revenue data for JPM's business segments for Q1 2021."
+  },
+  {
+    "financebench_id": "financebench_id_00302",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain any information about PPNE or its growth between FY20 and FY21."
+  },
+  {
+    "financebench_id": "financebench_id_00382",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "valid",
+    "support_justification": "The retrieved context shows Las Vegas Strip Resorts had the highest Adjusted Property EBITDAR in FY2022, with $3.14 billion, supported by pages 40 and 99."
+  },
+  {
+    "financebench_id": "financebench_id_00394",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain segment-level net income data for JPM in Q2 2022."
+  },
+  {
+    "financebench_id": "financebench_id_00407",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "valid",
+    "support_justification": "The context shows Corporate bonds at $416,420 thousand is the largest short-term investment."
+  },
+  {
+    "financebench_id": "financebench_id_00438",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "unsupported",
+    "citation_status": "invalid",
+    "numeric_status": "invalid",
+    "support_justification": "The model answer cites page 53 for operating income and revenue, but the retrieved context for page 53 does not contain the operating income or revenue figures used in the answer."
+  },
+  {
+    "financebench_id": "financebench_id_00460",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "unsupported",
+    "citation_status": "invalid",
+    "numeric_status": "invalid",
+    "support_justification": "The model answer incorrectly states 907 stores in Q2 FY2024 and 930 in FY2023, but the context shows 907 and 930 are for different periods and store types, and the FY2023 total is 978, not 930."
+  },
+  {
+    "financebench_id": "financebench_id_00464",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context on page 7 explicitly states the airline industry is cyclical, supporting the answer."
+  },
+  {
+    "financebench_id": "financebench_id_00476",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "missing",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not list any debt securities registered to trade on a national exchange."
+  },
+  {
+    "financebench_id": "financebench_id_00494",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "valid",
+    "support_justification": "The answer's claim about 787 production rate increase to 5 per month in 2023 is directly supported by the retrieved context."
+  },
+  {
+    "financebench_id": "financebench_id_00499",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "unsupported",
+    "citation_status": "valid",
+    "numeric_status": "valid",
+    "support_justification": "The model answer's numeric claim and citation are supported, but the answer's subjective interpretation of capital intensity is not directly supported by the retrieved context."
+  },
+  {
+    "financebench_id": "financebench_id_00517",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "valid",
+    "support_justification": "The answer's numeric claims and citations are fully supported by the retrieved context."
+  },
+  {
+    "financebench_id": "financebench_id_00521",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "missing",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain any information about acquisitions."
+  },
+  {
+    "financebench_id": "financebench_id_00540",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain the inventory or cost of goods sold data needed to calculate the inventory turnover ratio for AES Corporation in FY2022."
+  },
+  {
+    "financebench_id": "financebench_id_00552",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain Microsoft's debt information for FY2023 and FY2022, so the model's answer is appropriate."
+  },
+  {
+    "financebench_id": "financebench_id_00563",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "valid",
+    "support_justification": "The context confirms a 64% increase in Data Center segment revenue, matching the model answer."
+  },
+  {
+    "financebench_id": "financebench_id_00566",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "valid",
+    "support_justification": "The answer's numeric claim and citation are supported by the retrieved context."
+  },
+  {
+    "financebench_id": "financebench_id_00585",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "missing",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain Boeing's effective tax rates for FY2022 and FY2021, so the model answer is correct."
+  },
+  {
+    "financebench_id": "financebench_id_00591",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context lacks free cash flow conversion data for Adobe in FY2022."
+  },
+  {
+    "financebench_id": "financebench_id_00601",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "unsupported",
+    "citation_status": "valid",
+    "numeric_status": "not_applicable",
+    "support_justification": "The model answer claims insufficient information, but the retrieved context provides specific reasons for the SG&A expense reduction."
+  },
+  {
+    "financebench_id": "financebench_id_00603",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain information about the specific drivers of the merchandise inventories balance increase."
+  },
+  {
+    "financebench_id": "financebench_id_00605",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain any information about stock repurchases or share buybacks for Ulta Beauty in FY 2023."
+  },
+  {
+    "financebench_id": "financebench_id_00606",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The model answer states the context lacks sufficient information, which is correct as the retrieved context does not contain data on wages expense as a percentage of net sales."
+  },
+  {
+    "financebench_id": "financebench_id_00651",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "unsupported",
+    "citation_status": "invalid",
+    "numeric_status": "invalid",
+    "support_justification": "The model answer's claim of 8.1% growth in Q2 2023 is not supported by the provided context."
+  },
+  {
+    "financebench_id": "financebench_id_00669",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "missing",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain any information about J&J's gross margin change in FY2022."
+  },
+  {
+    "financebench_id": "financebench_id_00678",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "unsupported",
+    "citation_status": "valid",
+    "numeric_status": "invalid",
+    "support_justification": "The model answer incorrectly calculates gross margin using revenue and cost figures, but the retrieved context does not support the calculation or the claim that gross margin is not explicitly stated."
+  },
+  {
+    "financebench_id": "financebench_id_00684",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain gross margin data or a clear statement on its usefulness for AMCOR."
+  },
+  {
+    "financebench_id": "financebench_id_00685",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain historical gross margin data to assess consistency."
+  },
+  {
+    "financebench_id": "financebench_id_00702",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "valid",
+    "support_justification": "The answer's claim of an $8,107 million gain is directly supported by the retrieved context."
+  },
+  {
+    "financebench_id": "financebench_id_00705",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "unsupported",
+    "citation_status": "invalid",
+    "numeric_status": "invalid",
+    "support_justification": "The model answer incorrectly states the increase as $400,000,000, but the retrieved context does not support a $3.8B to $4.2B increase for the five-year agreement."
+  },
+  {
+    "financebench_id": "financebench_id_00711",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "missing",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain the financial data needed to calculate inventory turnover for J&J in FY2022."
+  },
+  {
+    "financebench_id": "financebench_id_00720",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "valid",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain any information about gross margin for American Express, so the model's answer is appropriate."
+  },
+  {
+    "financebench_id": "financebench_id_00723",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain any information about AMEX or its operating margin profile."
+  },
+  {
+    "financebench_id": "financebench_id_00724",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain Q2 2023 revenue data, so the model's answer is appropriate."
+  },
+  {
+    "financebench_id": "financebench_id_00735",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "missing",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain the legal proceedings section to verify the answer."
+  },
+  {
+    "financebench_id": "financebench_id_00746",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not list any debt securities registered to trade on a national securities exchange, supporting the model's answer that the context lacks the information."
+  },
+  {
+    "financebench_id": "financebench_id_00757",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context confirms customer concentration in FY22 with a specific customer accounting for 16% of revenue."
+  },
+  {
+    "financebench_id": "financebench_id_00790",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "not_applicable",
+    "support_justification": "The model answer states the context lacks sufficient information, which is correct as the retrieved context does not contain data on capital intensity."
+  },
+  {
+    "financebench_id": "financebench_id_00799",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "missing",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain any information about AMCOR's quick ratio for FY2022 or FY2023."
+  },
+  {
+    "financebench_id": "financebench_id_00807",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain the quick ratio or any liquidity ratio data for Q2 FY2023."
+  },
+  {
+    "financebench_id": "financebench_id_00822",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "valid",
+    "support_justification": "The answer's numeric claim and citation are supported by the retrieved context."
+  },
+  {
+    "financebench_id": "financebench_id_00839",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context confirms Mary N. Dillon's appointment as CEO and her previous role as Executive Chair and CEO of Ulta Beauty, supporting the answer."
+  },
+  {
+    "financebench_id": "financebench_id_00859",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "valid",
+    "support_justification": "The retrieved context from VERIZON_2021_10K page 84 shows cross currency swaps had a notional value of $32,502 million in 2021, matching the answer."
+  },
+  {
+    "financebench_id": "financebench_id_00882",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "valid",
+    "support_justification": "The model answer's numeric total, components, and citations are directly supported by the retrieved context."
+  },
+  {
+    "financebench_id": "financebench_id_00917",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain any information about AMD or its operating margin."
+  },
+  {
+    "financebench_id": "financebench_id_00941",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not list specific debt securities registered to trade on a national securities exchange as of Q2 2023."
+  },
+  {
+    "financebench_id": "financebench_id_00956",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context lacks FY2022 financials needed to assess growth."
+  },
+  {
+    "financebench_id": "financebench_id_00995",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "unsupported",
+    "citation_status": "valid",
+    "numeric_status": "not_applicable",
+    "support_justification": "The model answer includes FPGA product brands not listed in the retrieved context, such as Virtex-6 and Kintex-7, which are not mentioned in the provided context."
+  },
+  {
+    "financebench_id": "financebench_id_01009",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "valid",
+    "support_justification": "The context explicitly states PepsiCo operates in more than 200 countries and territories, matching the answer."
+  },
+  {
+    "financebench_id": "financebench_id_01028",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "not_applicable",
+    "support_justification": "The answer's list of geographies matches the context exactly, and the citation is correct."
+  },
+  {
+    "financebench_id": "financebench_id_01077",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context contains no information about acquisitions in FY2021-2023."
+  },
+  {
+    "financebench_id": "financebench_id_01079",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain any information about acquisitions in FY2021, FY2022, or FY2023."
+  },
+  {
+    "financebench_id": "financebench_id_01091",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "unsupported",
+    "citation_status": "invalid",
+    "numeric_status": "not_applicable",
+    "support_justification": "The cited page 112 does not support the claim of ongoing legal battles in FY2022; it discusses past settlements."
+  },
+  {
+    "financebench_id": "financebench_id_01107",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "valid",
+    "support_justification": "The answer's claims about legal battles, including opioid-related claims, a 2021 Ohio judgment, and prescription processing investigations, are directly supported by the cited pages."
+  },
+  {
+    "financebench_id": "financebench_id_01148",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "not_applicable",
+    "support_justification": "The answer correctly identifies the packaging industry, supported by multiple citations."
+  },
+  {
+    "financebench_id": "financebench_id_01163",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "valid",
+    "support_justification": "The answer correctly identifies operations as the most positive cash flow activity, supported by the cash flow statement."
+  },
+  {
+    "financebench_id": "financebench_id_01198",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "valid",
+    "support_justification": "The answer's numeric claims and citations are fully supported by the retrieved context."
+  },
+  {
+    "financebench_id": "financebench_id_01226",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain any information about 3M's operating margin change in FY2022."
+  },
+  {
+    "financebench_id": "financebench_id_01244",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "valid",
+    "support_justification": "The answer's claim and citation are fully supported by the retrieved context."
+  },
+  {
+    "financebench_id": "financebench_id_01254",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "valid",
+    "support_justification": "The answer's claim and citation are supported by the retrieved context."
+  },
+  {
+    "financebench_id": "financebench_id_01275",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain cash flow statement data for Best Buy's FY2023, so the model's answer is appropriate."
+  },
+  {
+    "financebench_id": "financebench_id_01279",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain AMD's cash flow data for FY22, so the model's answer is appropriate."
+  },
+  {
+    "financebench_id": "financebench_id_01290",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain information about Boeing's primary customers."
+  },
+  {
+    "financebench_id": "financebench_id_01319",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "missing",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain any information about restructuring costs for AES Corporation in FY2022."
+  },
+  {
+    "financebench_id": "financebench_id_01328",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "valid",
+    "support_justification": "The retrieved context explicitly lists total restructuring and impairment charges of $411 million for 2022, matching the model answer."
+  },
+  {
+    "financebench_id": "financebench_id_01346",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "valid",
+    "support_justification": "The retrieved context shows effective tax rates of 23% for 2022 and 20% for 2021, supporting the 3% increase."
+  },
+  {
+    "financebench_id": "financebench_id_01351",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "valid",
+    "support_justification": "The answer's numeric claim and citation are directly supported by the retrieved context."
+  },
+  {
+    "financebench_id": "financebench_id_01474",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "valid",
+    "support_justification": "The answer's numeric claims and citation are directly supported by the retrieved context."
+  },
+  {
+    "financebench_id": "financebench_id_01476",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "valid",
+    "support_justification": "The answer's numeric claim and citation are directly supported by the retrieved context."
+  },
+  {
+    "financebench_id": "financebench_id_01482",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain any information about a shareholder proposal for a congruency report on net-zero emissions policies."
+  },
+  {
+    "financebench_id": "financebench_id_01484",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "valid",
+    "support_justification": "The model answer's figures and citations are directly supported by the retrieved context."
+  },
+  {
+    "financebench_id": "financebench_id_01487",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context lacks net earnings and sales data for Q2 FY2023 and Q2 FY2022, preventing a comparison."
+  },
+  {
+    "financebench_id": "financebench_id_01488",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "not_applicable",
+    "support_justification": "The model answer correctly states the context lacks information to answer the question."
+  },
+  {
+    "financebench_id": "financebench_id_01490",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain the specific gain amount from the Consumer Health separation as of August 30, 2023."
+  },
+  {
+    "financebench_id": "financebench_id_01491",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "valid",
+    "support_justification": "The answer's numeric claim and citations are directly supported by the retrieved context."
+  },
+  {
+    "financebench_id": "financebench_id_01858",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "valid",
+    "support_justification": "The answer's numeric claim and citation are supported by the retrieved context."
+  },
+  {
+    "financebench_id": "financebench_id_01865",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "missing",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain any information about segment growth or performance in 2022."
+  },
+  {
+    "financebench_id": "financebench_id_01902",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "valid",
+    "support_justification": "The answer correctly cites the revenue mix percentage for Computing and Mobile Phones as 41% from the specified source, which is the highest among categories."
+  },
+  {
+    "financebench_id": "financebench_id_01911",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "unsupported",
+    "citation_status": "valid",
+    "numeric_status": "invalid",
+    "support_justification": "The model answer's calculation uses incorrect components for the interest coverage ratio."
+  },
+  {
+    "financebench_id": "financebench_id_01912",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "valid",
+    "support_justification": "The context shows MGM China's 44% revenue decline and negative EBITDAR, confirming worst performance."
+  },
+  {
+    "financebench_id": "financebench_id_01928",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "unsupported",
+    "citation_status": "invalid",
+    "numeric_status": "invalid",
+    "support_justification": "The model answer cites pages 1 and 2 of AMCOR_2023Q4_EARNINGS for Adjusted EBIT, but the provided context does not contain the cited pages showing Adjusted EBIT of $1,608 million."
+  },
+  {
+    "financebench_id": "financebench_id_01930",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "unsupported",
+    "citation_status": "invalid",
+    "numeric_status": "invalid",
+    "support_justification": "The model answer cites pages 1 and 2, but the provided context from page 2 does not contain the 1% figure; the 1% figure is from a different page and context."
+  },
+  {
+    "financebench_id": "financebench_id_01935",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain the 8-K filing content, so the model's claim of insufficient information is supported."
+  },
+  {
+    "financebench_id": "financebench_id_01936",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "unsupported",
+    "citation_status": "valid",
+    "numeric_status": "invalid",
+    "support_justification": "The model answer's citation is valid, but the numeric claim about the liability balance is not supported by the provided context."
+  },
+  {
+    "financebench_id": "financebench_id_01964",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "missing",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain the balance sheet or a list of liabilities to identify the largest liability."
+  },
+  {
+    "financebench_id": "financebench_id_01981",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain information about card member retention in 2022."
+  },
+  {
+    "financebench_id": "financebench_id_02024",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not contain information about Verizon's expected retiree payments in 2024."
+  },
+  {
+    "financebench_id": "financebench_id_02049",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "unsupported",
+    "citation_status": "invalid",
+    "numeric_status": "not_applicable",
+    "support_justification": "The model answer cites a source not in the retrieved context and makes a claim not directly supported by the provided evidence."
+  },
+  {
+    "financebench_id": "financebench_id_02119",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context does not provide the necessary information to calculate the liquidation value per shareholder."
+  },
+  {
+    "financebench_id": "financebench_id_02416",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "insufficient_context",
+    "citation_status": "not_applicable",
+    "numeric_status": "not_applicable",
+    "support_justification": "The retrieved context contains no substantive information, making it impossible to verify the model's claim."
+  },
+  {
+    "financebench_id": "financebench_id_02419",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "support_run_version": "deepseek_v3_2_support_json_v1",
+    "support_verdict": "supported",
+    "citation_status": "valid",
+    "numeric_status": "not_applicable",
+    "support_justification": "The model answer correctly states the context lacks information, which is supported by the retrieved context."
+  }
+]

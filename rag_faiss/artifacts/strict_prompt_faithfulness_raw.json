@@ -1,0 +1,142 @@
+[
+  {
+    "financebench_id": "financebench_id_00005",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "faithfulness": 1.0,
+    "faithfulness_error": null
+  },
+  {
+    "financebench_id": "financebench_id_00070",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "faithfulness": 0.0,
+    "faithfulness_error": null
+  },
+  {
+    "financebench_id": "financebench_id_00080",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "faithfulness": 0.0,
+    "faithfulness_error": null
+  },
+  {
+    "financebench_id": "financebench_id_00206",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "faithfulness": 0.0,
+    "faithfulness_error": null
+  },
+  {
+    "financebench_id": "financebench_id_00215",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "faithfulness": 0.8571428571428571,
+    "faithfulness_error": null
+  },
+  {
+    "financebench_id": "financebench_id_00216",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "faithfulness": 0.0,
+    "faithfulness_error": null
+  },
+  {
+    "financebench_id": "financebench_id_00222",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "faithfulness": 0.0,
+    "faithfulness_error": null
+  },
+  {
+    "financebench_id": "financebench_id_00283",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "faithfulness": 1.0,
+    "faithfulness_error": null
+  },
+  {
+    "financebench_id": "financebench_id_00288",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "faithfulness": 0.0,
+    "faithfulness_error": null
+  },
+  {
+    "financebench_id": "financebench_id_00299",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "faithfulness": 1.0,
+    "faithfulness_error": null
+  },
+  {
+    "financebench_id": "financebench_id_00302",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "faithfulness": 0.0,
+    "faithfulness_error": null
+  },
+  {
+    "financebench_id": "financebench_id_00382",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "faithfulness": 1.0,
+    "faithfulness_error": null
+  },
+  {
+    "financebench_id": "financebench_id_00394",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "faithfulness": 0.0,
+    "faithfulness_error": null
+  },
+  {
+    "financebench_id": "financebench_id_00407",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "faithfulness": 0.5,
+    "faithfulness_error": null
+  },
+  {
+    "financebench_id": "financebench_id_00438",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "faithfulness": 0.0,
+    "faithfulness_error": null
+  },
+  {
+    "financebench_id": "financebench_id_00460",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "faithfulness": 0.6666666666666666,
+    "faithfulness_error": null
+  },
+  {
+    "financebench_id": "financebench_id_00464",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "faithfulness": 0.2,
+    "faithfulness_error": null
+  },
+  {
+    "financebench_id": "financebench_id_00476",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "faithfulness": 0.0,
+    "faithfulness_error": null
+  },
+  {
+    "financebench_id": "financebench_id_00494",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "faithfulness": 1.0,
+    "faithfulness_error": null
+  },
+  {
+    "financebench_id": "financebench_id_00499",
+    "judge_model": "deepseek-ai/DeepSeek-V3.2",
+    "judge_run_version": "deepseek_v3_2_json_v1",
+    "faithfulness": 0.0,
+    "faithfulness_error": null
+  }
+]

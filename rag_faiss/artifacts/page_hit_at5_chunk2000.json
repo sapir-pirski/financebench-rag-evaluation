@@ -1,0 +1,4716 @@
+[
+  {
+    "financebench_id": "financebench_id_00005",
+    "doc_name": "CORNING_2022_10K",
+    "question": "Does Corning have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.",
+    "evidence_page_nums": [
+      59
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "3M_2022_10K",
+        "page_number": 37,
+        "company": "3M",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 70,
+        "company": "3M",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "CORNING_2022_10K",
+        "page_number": 63,
+        "company": "Corning",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "CORNING_2022_10K",
+        "page_number": 1,
+        "company": "Corning",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "CORNING_2022_10K",
+        "page_number": 90,
+        "company": "Corning",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00070",
+    "doc_name": "AMERICANWATERWORKS_2022_10K",
+    "question": "Does American Water Works have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.",
+    "evidence_page_nums": [
+      80,
+      81
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "AMERICANWATERWORKS_2022_10K",
+        "page_number": 81,
+        "company": "American Water Works",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "3M_2022_10K",
+        "page_number": 37,
+        "company": "3M",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "AMERICANWATERWORKS_2022_10K",
+        "page_number": 84,
+        "company": "American Water Works",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "AMERICANWATERWORKS_2022_10K",
+        "page_number": 0,
+        "company": "American Water Works",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "AMERICANWATERWORKS_2022_10K",
+        "page_number": 5,
+        "company": "American Water Works",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00080",
+    "doc_name": "PAYPAL_2022_10K",
+    "question": "Does Paypal have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.",
+    "evidence_page_nums": [
+      60
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "PAYPAL_2022_10K",
+        "page_number": 32,
+        "company": "Paypal",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "PAYPAL_2022_10K",
+        "page_number": 75,
+        "company": "Paypal",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "PAYPAL_2022_10K",
+        "page_number": 94,
+        "company": "Paypal",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "PAYPAL_2022_10K",
+        "page_number": 64,
+        "company": "Paypal",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "PAYPAL_2022_10K",
+        "page_number": 7,
+        "company": "Paypal",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00206",
+    "doc_name": "JPMORGAN_2022_10K",
+    "question": "Are JPM's gross margins historically consistent (not fluctuating more than roughly 2% each year)? If gross margins are not a relevant metric for a company like this, then please state that and explain why.",
+    "evidence_page_nums": [
+      2
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "NIKE_2023_10K",
+        "page_number": 41,
+        "company": "Nike",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "JPMORGAN_2021Q1_10Q",
+        "page_number": 30,
+        "company": "JPMorgan",
+        "doc_period": 2021
+      },
+      {
+        "rank": 3,
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 43,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "JPMORGAN_2022_10K",
+        "page_number": 151,
+        "company": "JPMorgan",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "CORNING_2022_10K",
+        "page_number": 31,
+        "company": "Corning",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00215",
+    "doc_name": "VERIZON_2022_10K",
+    "question": "Is Verizon a capital intensive business based on FY 2022 data?",
+    "evidence_page_nums": [
+      22,
+      55
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "VERIZON_2021_10K",
+        "page_number": 35,
+        "company": "Verizon",
+        "doc_period": 2021
+      },
+      {
+        "rank": 2,
+        "doc_name": "VERIZON_2021_10K",
+        "page_number": 34,
+        "company": "Verizon",
+        "doc_period": 2021
+      },
+      {
+        "rank": 3,
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 69,
+        "company": "Verizon",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "VERIZON_2021_10K",
+        "page_number": 52,
+        "company": "Verizon",
+        "doc_period": 2021
+      },
+      {
+        "rank": 5,
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 36,
+        "company": "Verizon",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00216",
+    "doc_name": "VERIZON_2022_10K",
+    "question": "Does Verizon have a reasonably healthy liquidity profile based on its quick ratio for FY 2022? If the quick ratio is not relevant to measure liquidity, please state that and explain why.",
+    "evidence_page_nums": [
+      55
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 36,
+        "company": "Verizon",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "VERIZON_2021_10K",
+        "page_number": 39,
+        "company": "Verizon",
+        "doc_period": 2021
+      },
+      {
+        "rank": 3,
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 93,
+        "company": "Verizon",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "VERIZON_2021_10K",
+        "page_number": 18,
+        "company": "Verizon",
+        "doc_period": 2021
+      },
+      {
+        "rank": 5,
+        "doc_name": "VERIZON_2021_10K",
+        "page_number": 42,
+        "company": "Verizon",
+        "doc_period": 2021
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00222",
+    "doc_name": "AMD_2022_10K",
+    "question": "Does AMD have a reasonably healthy liquidity profile based on its quick ratio for FY22? If the quick ratio is not relevant to measure liquidity, please state that and explain why.",
+    "evidence_page_nums": [
+      55
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 41,
+        "company": "AMD",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 19,
+        "company": "AMD",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 3,
+        "company": "AMD",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 40,
+        "company": "AMD",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 105,
+        "company": "AMD",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00283",
+    "doc_name": "Pfizer_2023Q2_10Q",
+    "question": "How much does Pfizer expect to pay to spin off Upjohn in the future in USD million?",
+    "evidence_page_nums": [
+      40
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 70,
+        "company": "Pfizer",
+        "doc_period": 2021
+      },
+      {
+        "rank": 2,
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 109,
+        "company": "Pfizer",
+        "doc_period": 2021
+      },
+      {
+        "rank": 3,
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 62,
+        "company": "Pfizer",
+        "doc_period": 2021
+      },
+      {
+        "rank": 4,
+        "doc_name": "Pfizer_2023Q2_10Q",
+        "page_number": 36,
+        "company": "Pfizer",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 41,
+        "company": "Pfizer",
+        "doc_period": 2021
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00288",
+    "doc_name": "BESTBUY_2024Q2_10Q",
+    "question": "Was there any drop in Cash & Cash equivalents between FY 2023 and Q2 of FY2024?",
+    "evidence_page_nums": [
+      19
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 42,
+        "company": "Boeing",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "BESTBUY_2023_10K",
+        "page_number": 43,
+        "company": "Best Buy",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "BESTBUY_2024Q2_10Q",
+        "page_number": 20,
+        "company": "Best Buy",
+        "doc_period": 2024
+      },
+      {
+        "rank": 4,
+        "doc_name": "PAYPAL_2022_10K",
+        "page_number": 44,
+        "company": "Paypal",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "NIKE_2023_10K",
+        "page_number": 47,
+        "company": "Nike",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00299",
+    "doc_name": "JPMORGAN_2021Q1_10Q",
+    "question": "Which of JPM's business segments had the lowest net revenue in 2021 Q1?",
+    "evidence_page_nums": [
+      18
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "JPMORGAN_2021Q1_10Q",
+        "page_number": 32,
+        "company": "JPMorgan",
+        "doc_period": 2021
+      },
+      {
+        "rank": 2,
+        "doc_name": "BESTBUY_2023_10K",
+        "page_number": 24,
+        "company": "Best Buy",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "JPMORGAN_2022Q2_10Q",
+        "page_number": 36,
+        "company": "JPMorgan",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "BESTBUY_2023_10K",
+        "page_number": 61,
+        "company": "Best Buy",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 67,
+        "company": "AMD",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00302",
+    "doc_name": "PFIZER_2021_10K",
+    "question": "Did Pfizer grow its PPNE between FY20 and FY21?",
+    "evidence_page_nums": [
+      58
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 135,
+        "company": "Pfizer",
+        "doc_period": 2021
+      },
+      {
+        "rank": 2,
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 43,
+        "company": "Pfizer",
+        "doc_period": 2021
+      },
+      {
+        "rank": 3,
+        "doc_name": "Pfizer_2023Q2_10Q",
+        "page_number": 12,
+        "company": "Pfizer",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 81,
+        "company": "Pfizer",
+        "doc_period": 2021
+      },
+      {
+        "rank": 5,
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 75,
+        "company": "Pfizer",
+        "doc_period": 2021
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00382",
+    "doc_name": "MGMRESORTS_2022Q4_EARNINGS",
+    "question": "Which region had the Highest EBITDAR Contribution for MGM during FY2022?",
+    "evidence_page_nums": [
+      12
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "MGMRESORTS_2022_10K",
+        "page_number": 40,
+        "company": "MGM Resorts",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "MGMRESORTS_2023Q2_10Q",
+        "page_number": 31,
+        "company": "MGM Resorts",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "MGMRESORTS_2023Q2_10Q",
+        "page_number": 23,
+        "company": "MGM Resorts",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "MGMRESORTS_2022Q4_EARNINGS",
+        "page_number": 1,
+        "company": "MGM Resorts",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "MGMRESORTS_2022_10K",
+        "page_number": 99,
+        "company": "MGM Resorts",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00394",
+    "doc_name": "JPMORGAN_2022Q2_10Q",
+    "question": "In 2022 Q2, which of JPM's business segments had the highest net income?",
+    "evidence_page_nums": [
+      20
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "CORNING_2022_10K",
+        "page_number": 102,
+        "company": "Corning",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "JPMORGAN_2023Q2_10Q",
+        "page_number": 6,
+        "company": "JPMorgan",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "JPMORGAN_2022Q2_10Q",
+        "page_number": 6,
+        "company": "JPMorgan",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "JPMORGAN_2023Q2_10Q",
+        "page_number": 40,
+        "company": "JPMorgan",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "JPMORGAN_2022_10K",
+        "page_number": 160,
+        "company": "JPMorgan",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00407",
+    "doc_name": "MGMRESORTS_2023Q2_10Q",
+    "question": "Which type of debt received the largest investment among the short term investments for MGM in H1 FY2023?",
+    "evidence_page_nums": [
+      10
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "MGMRESORTS_2023Q2_10Q",
+        "page_number": 10,
+        "company": "MGM Resorts",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "MGMRESORTS_2022_10K",
+        "page_number": 61,
+        "company": "MGM Resorts",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "MGMRESORTS_2022_10K",
+        "page_number": 47,
+        "company": "MGM Resorts",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "MGMRESORTS_2022_10K",
+        "page_number": 46,
+        "company": "MGM Resorts",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "MGMRESORTS_2022_10K",
+        "page_number": 67,
+        "company": "MGM Resorts",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00438",
+    "doc_name": "ADOBE_2022_10K",
+    "question": "Does Adobe have an improving operating margin profile as of FY2022? If operating margin is not a useful metric for a company like this, then state that and explain why.",
+    "evidence_page_nums": [
+      53
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "ADOBE_2022_10K",
+        "page_number": 57,
+        "company": "Adobe",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "MICROSOFT_2023_10K",
+        "page_number": 45,
+        "company": "Microsoft",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "ADOBE_2022_10K",
+        "page_number": 3,
+        "company": "Adobe",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "ADOBE_2022_10K",
+        "page_number": 16,
+        "company": "Adobe",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "ADOBE_2022_10K",
+        "page_number": 56,
+        "company": "Adobe",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00460",
+    "doc_name": "BESTBUY_2024Q2_10Q",
+    "question": "Was there any change in the number of Best Buy stores between Q2 of FY2024 and FY2023?",
+    "evidence_page_nums": [
+      16
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "BESTBUY_2024Q2_10Q",
+        "page_number": 16,
+        "company": "Best Buy",
+        "doc_period": 2024
+      },
+      {
+        "rank": 2,
+        "doc_name": "BESTBUY_2023_10K",
+        "page_number": 25,
+        "company": "Best Buy",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "BESTBUY_2024Q2_10Q",
+        "page_number": 18,
+        "company": "Best Buy",
+        "doc_period": 2024
+      },
+      {
+        "rank": 4,
+        "doc_name": "BESTBUY_2023_10K",
+        "page_number": 18,
+        "company": "Best Buy",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "BESTBUY_2023_10K",
+        "page_number": 22,
+        "company": "Best Buy",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00464",
+    "doc_name": "BOEING_2022_10K",
+    "question": "Is Boeing's business subject to cyclicality?",
+    "evidence_page_nums": [
+      7
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 62,
+        "company": "Boeing",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 7,
+        "company": "Boeing",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 58,
+        "company": "Boeing",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 2,
+        "company": "Boeing",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 61,
+        "company": "Boeing",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00476",
+    "doc_name": "AMERICANEXPRESS_2022_10K",
+    "question": "Which debt securities are registered to trade on a national securities exchange under American Express' name as of 2022?",
+    "evidence_page_nums": [
+      0
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 125,
+        "company": "American Express",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 0,
+        "company": "American Express",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 258,
+        "company": "American Express",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 161,
+        "company": "American Express",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 259,
+        "company": "American Express",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00494",
+    "doc_name": "BOEING_2022_10K",
+    "question": "What production rate changes is Boeing forecasting for FY2023?",
+    "evidence_page_nums": [
+      8
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 8,
+        "company": "Boeing",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 54,
+        "company": "Boeing",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 42,
+        "company": "Boeing",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 34,
+        "company": "Boeing",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 80,
+        "company": "Boeing",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00499",
+    "doc_name": "3M_2022_10K",
+    "question": "Is 3M a capital-intensive business based on FY2022 data?",
+    "evidence_page_nums": [
+      47,
+      49,
+      51
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 69,
+        "company": "3M",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 70,
+        "company": "3M",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "3M_2022_10K",
+        "page_number": 36,
+        "company": "3M",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "3M_2022_10K",
+        "page_number": 33,
+        "company": "3M",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "3M_2022_10K",
+        "page_number": 27,
+        "company": "3M",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00517",
+    "doc_name": "BOEING_2022_10K",
+    "question": "Are there any product categories / service categories that represent more than 20% of Boeing's revenue for FY2022?",
+    "evidence_page_nums": [
+      61
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 54,
+        "company": "Boeing",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 61,
+        "company": "Boeing",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 2,
+        "company": "Boeing",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 58,
+        "company": "Boeing",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 56,
+        "company": "Boeing",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00521",
+    "doc_name": "ULTABEAUTY_2023_10K",
+    "question": "What are major acquisitions that Ulta Beauty has done in FY2023 and FY2022?",
+    "evidence_page_nums": [
+      56
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 9,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 58,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 4,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+        "page_number": 0,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 8,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00540",
+    "doc_name": "AES_2022_10K",
+    "question": "Roughly how many times has AES Corporation sold its inventory in FY2022? Calculate inventory turnover ratio for the FY2022; if conventional inventory management is not meaningful for the company then state that and explain why.",
+    "evidence_page_nums": [
+      129,
+      131
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 60,
+        "company": "AMD",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "AES_2022_10K",
+        "page_number": 83,
+        "company": "AES Corporation",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "AES_2022_10K",
+        "page_number": 198,
+        "company": "AES Corporation",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 68,
+        "company": "Boeing",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 45,
+        "company": "AMD",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00552",
+    "doc_name": "MICROSOFT_2023_10K",
+    "question": "Has Microsoft increased its debt on balance sheet between FY2023 and the FY2022 period?",
+    "evidence_page_nums": [
+      59
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "VERIZON_2021_10K",
+        "page_number": 75,
+        "company": "Verizon",
+        "doc_period": 2021
+      },
+      {
+        "rank": 2,
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 24,
+        "company": "Verizon",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 123,
+        "company": "American Express",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "JOHNSON_JOHNSON_2022_10K",
+        "page_number": 37,
+        "company": "Johnson & Johnson",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "MICROSOFT_2023_10K",
+        "page_number": 39,
+        "company": "Microsoft",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00563",
+    "doc_name": "AMD_2022_10K",
+    "question": "From FY21 to FY22, excluding Embedded, in which AMD reporting segment did sales proportionally increase the most?",
+    "evidence_page_nums": [
+      47
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 3,
+        "company": "AMD",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 105,
+        "company": "AMD",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 59,
+        "company": "AMD",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 66,
+        "company": "AMD",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 41,
+        "company": "AMD",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00566",
+    "doc_name": "VERIZON_2022_10K",
+    "question": "Has Verizon increased its debt on balance sheet between 2022 and the 2021 fiscal period?",
+    "evidence_page_nums": [
+      76
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "VERIZON_2021_10K",
+        "page_number": 37,
+        "company": "Verizon",
+        "doc_period": 2021
+      },
+      {
+        "rank": 2,
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 39,
+        "company": "Verizon",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 24,
+        "company": "Verizon",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "VERIZON_2021_10K",
+        "page_number": 37,
+        "company": "Verizon",
+        "doc_period": 2021
+      },
+      {
+        "rank": 5,
+        "doc_name": "VERIZON_2021_10K",
+        "page_number": 79,
+        "company": "Verizon",
+        "doc_period": 2021
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00585",
+    "doc_name": "BOEING_2022_10K",
+    "question": "How does Boeing's effective tax rate in FY2022 compare to FY2021?",
+    "evidence_page_nums": [
+      54
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 71,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 26,
+        "company": "Boeing",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 54,
+        "company": "Boeing",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "NIKE_2023_10K",
+        "page_number": 38,
+        "company": "Nike",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 55,
+        "company": "Boeing",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00591",
+    "doc_name": "ADOBE_2022_10K",
+    "question": "Does Adobe have an improving Free cashflow conversion as of FY2022?",
+    "evidence_page_nums": [
+      56
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "ADOBE_2022_10K",
+        "page_number": 56,
+        "company": "Adobe",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "ADOBE_2022_10K",
+        "page_number": 39,
+        "company": "Adobe",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "VERIZON_2021_10K",
+        "page_number": 39,
+        "company": "Verizon",
+        "doc_period": 2021
+      },
+      {
+        "rank": 4,
+        "doc_name": "ADOBE_2022_10K",
+        "page_number": 52,
+        "company": "Adobe",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "ADOBE_2022_10K",
+        "page_number": 53,
+        "company": "Adobe",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00601",
+    "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+    "question": "What drove the reduction in SG&A expense as a percent of net sales in FY2023?",
+    "evidence_page_nums": [
+      1
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 62,
+        "company": "3M",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 38,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 37,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "BESTBUY_2024Q2_10Q",
+        "page_number": 18,
+        "company": "Best Buy",
+        "doc_period": 2024
+      },
+      {
+        "rank": 5,
+        "doc_name": "3M_2022_10K",
+        "page_number": 26,
+        "company": "3M",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00603",
+    "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+    "question": "What drove the increase in Ulta Beauty's merchandise inventories balance at end of FY2023?",
+    "evidence_page_nums": [
+      2
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+        "page_number": 0,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 58,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 41,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 53,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 8,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00605",
+    "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+    "question": "What percent of Ulta Beauty's total spend on stock repurchases for FY 2023 occurred in Q4 of FY2023?",
+    "evidence_page_nums": [
+      2
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+        "page_number": 0,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 54,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+        "page_number": 3,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 41,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 53,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00606",
+    "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+    "question": "Did Ulta Beauty's wages expense as a percent of net sales increase or decrease in FY2023?",
+    "evidence_page_nums": [
+      1
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+        "page_number": 0,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 54,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 32,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 41,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+        "page_number": 1,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00651",
+    "doc_name": "JOHNSON_JOHNSON_2022Q4_EARNINGS",
+    "question": "Is growth in JnJ's adjusted EPS expected to accelerate in FY2023?",
+    "evidence_page_nums": [
+      0
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "JOHNSON_JOHNSON_2023Q2_EARNINGS",
+        "page_number": 0,
+        "company": "Johnson & Johnson",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "JOHNSON_JOHNSON_2022Q4_EARNINGS",
+        "page_number": 4,
+        "company": "Johnson & Johnson",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "JOHNSON_JOHNSON_2023Q2_EARNINGS",
+        "page_number": 4,
+        "company": "Johnson & Johnson",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "JPMORGAN_2022Q2_10Q",
+        "page_number": 7,
+        "company": "JPMorgan",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "AMCOR_2023Q4_EARNINGS",
+        "page_number": 4,
+        "company": "Amcor",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00669",
+    "doc_name": "JOHNSON_JOHNSON_2022_10K",
+    "question": "What drove gross margin change as of FY2022 for JnJ? If gross margin is not a useful metric for a company like this, then please state that and explain why.",
+    "evidence_page_nums": [
+      33
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "NIKE_2023_10K",
+        "page_number": 41,
+        "company": "Nike",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "JOHNSON_JOHNSON_2022Q4_EARNINGS",
+        "page_number": 4,
+        "company": "Johnson & Johnson",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
+        "page_number": 5,
+        "company": "Johnson & Johnson",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "JOHNSON_JOHNSON_2023Q2_EARNINGS",
+        "page_number": 4,
+        "company": "Johnson & Johnson",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "JPMORGAN_2022_10K",
+        "page_number": 69,
+        "company": "JPMorgan",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00678",
+    "doc_name": "BOEING_2022_10K",
+    "question": "Does Boeing have an improving gross margin profile as of FY2022? If gross margin is not a useful metric for a company like this, then state that and explain why.",
+    "evidence_page_nums": [
+      54
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 62,
+        "company": "Boeing",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 61,
+        "company": "Boeing",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "NIKE_2023_10K",
+        "page_number": 41,
+        "company": "Nike",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 50,
+        "company": "Boeing",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 23,
+        "company": "Boeing",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00684",
+    "doc_name": "AMCOR_2023_10K",
+    "question": "Does AMCOR have an improving gross margin profile as of FY2023? If gross margin is not a useful metric for a company like this, then state that and explain why.",
+    "evidence_page_nums": [
+      49
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 34,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "AMCOR_2023Q4_EARNINGS",
+        "page_number": 6,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "AMCOR_2023Q4_EARNINGS",
+        "page_number": 6,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "AMCOR_2023Q4_EARNINGS",
+        "page_number": 2,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "AMCOR_2023Q2_10Q",
+        "page_number": 4,
+        "company": "Amcor",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00685",
+    "doc_name": "BESTBUY_2023_10K",
+    "question": "Are Best Buy's gross margins historically consistent (not fluctuating more than roughly 2% each year)? If gross margins are not a relevant metric for a company like this, then please state that and explain why.",
+    "evidence_page_nums": [
+      39
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "BESTBUY_2024Q2_10Q",
+        "page_number": 13,
+        "company": "Best Buy",
+        "doc_period": 2024
+      },
+      {
+        "rank": 2,
+        "doc_name": "BESTBUY_2023_10K",
+        "page_number": 25,
+        "company": "Best Buy",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "BESTBUY_2023_10K",
+        "page_number": 21,
+        "company": "Best Buy",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "NIKE_2023_10K",
+        "page_number": 41,
+        "company": "Nike",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "BESTBUY_2023_10K",
+        "page_number": 21,
+        "company": "Best Buy",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00702",
+    "doc_name": "PFIZER_2021_10K",
+    "question": "Were there any potential events that are not in Pfizer's standard business operations that substantially increased net income in 2019?",
+    "evidence_page_nums": [
+      56
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 107,
+        "company": "Pfizer",
+        "doc_period": 2021
+      },
+      {
+        "rank": 2,
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 60,
+        "company": "Pfizer",
+        "doc_period": 2021
+      },
+      {
+        "rank": 3,
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 56,
+        "company": "Pfizer",
+        "doc_period": 2021
+      },
+      {
+        "rank": 4,
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 77,
+        "company": "Pfizer",
+        "doc_period": 2021
+      },
+      {
+        "rank": 5,
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 63,
+        "company": "Pfizer",
+        "doc_period": 2021
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00705",
+    "doc_name": "PEPSICO_2023_8K_dated-2023-05-30",
+    "question": "By how much did Pepsico increase its unsecured five year revolving credit agreement on May 26, 2023?",
+    "evidence_page_nums": [
+      1
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-30",
+        "page_number": 1,
+        "company": "PepsiCo",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-30",
+        "page_number": 1,
+        "company": "PepsiCo",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-30",
+        "page_number": 80,
+        "company": "PepsiCo",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-30",
+        "page_number": 1,
+        "company": "PepsiCo",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-30",
+        "page_number": 84,
+        "company": "PepsiCo",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00711",
+    "doc_name": "JOHNSON_JOHNSON_2022_10K",
+    "question": "Roughly how many times has JnJ sold its inventory in FY2022? Calculate inventory turnover ratio for FY2022; if conventional inventory management is not meaningful for the company then state that and explain why.",
+    "evidence_page_nums": [
+      45,
+      46
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "JOHNSON_JOHNSON_2022_10K",
+        "page_number": 44,
+        "company": "Johnson & Johnson",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 60,
+        "company": "AMD",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 98,
+        "company": "CVS Health",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "AMCOR_2023Q2_10Q",
+        "page_number": 32,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 68,
+        "company": "Boeing",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00720",
+    "doc_name": "AMERICANEXPRESS_2022_10K",
+    "question": "What drove gross margin change as of the FY2022 for American Express? If gross margin is not a useful metric for a company like this, then please state that and explain why.",
+    "evidence_page_nums": [
+      95
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "NIKE_2023_10K",
+        "page_number": 41,
+        "company": "Nike",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 101,
+        "company": "American Express",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-30",
+        "page_number": 46,
+        "company": "PepsiCo",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 149,
+        "company": "American Express",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 50,
+        "company": "Boeing",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00723",
+    "doc_name": "AMERICANEXPRESS_2022_10K",
+    "question": "Does AMEX have an improving operating margin profile as of 2022? If operating margin is not a useful metric for a company like this, then state that and explain why.",
+    "evidence_page_nums": [
+      95
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "VERIZON_2021_10K",
+        "page_number": 26,
+        "company": "Verizon",
+        "doc_period": 2021
+      },
+      {
+        "rank": 2,
+        "doc_name": "AES_2022_10K",
+        "page_number": 95,
+        "company": "AES Corporation",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 26,
+        "company": "Verizon",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "VERIZON_2021_10K",
+        "page_number": 25,
+        "company": "Verizon",
+        "doc_period": 2021
+      },
+      {
+        "rank": 5,
+        "doc_name": "3M_2022_10K",
+        "page_number": 30,
+        "company": "3M",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00724",
+    "doc_name": "Pfizer_2023Q2_10Q",
+    "question": "For Pfizer, which geographic region had the biggest drop in Q22023 year over year revenues (on a percentage basis)?",
+    "evidence_page_nums": [
+      37
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 38,
+        "company": "Pfizer",
+        "doc_period": 2021
+      },
+      {
+        "rank": 2,
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 39,
+        "company": "Pfizer",
+        "doc_period": 2021
+      },
+      {
+        "rank": 3,
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 108,
+        "company": "Pfizer",
+        "doc_period": 2021
+      },
+      {
+        "rank": 4,
+        "doc_name": "Pfizer_2023Q2_10Q",
+        "page_number": 38,
+        "company": "Pfizer",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "Pfizer_2023Q2_10Q",
+        "page_number": 46,
+        "company": "Pfizer",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00735",
+    "doc_name": "PEPSICO_2022_10K",
+    "question": "Has Pepsico reported any materially important ongoing legal battles from FY2022 and FY2021?",
+    "evidence_page_nums": [
+      25
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "PEPSICO_2023Q1_EARNINGS",
+        "page_number": 15,
+        "company": "PepsiCo",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 63,
+        "company": "PepsiCo",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 31,
+        "company": "PepsiCo",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 496,
+        "company": "PepsiCo",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 120,
+        "company": "PepsiCo",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00746",
+    "doc_name": "ULTABEAUTY_2023_10K",
+    "question": "Which debt securities are registered to trade on a national securities exchange under Ulta Beauty's name as of FY2023?",
+    "evidence_page_nums": [
+      0
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 0,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 101,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 82,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 104,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 102,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00757",
+    "doc_name": "AMD_2022_10K",
+    "question": "Did AMD report customer concentration in FY22?",
+    "evidence_page_nums": [
+      11
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 13,
+        "company": "AMD",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 105,
+        "company": "AMD",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 103,
+        "company": "AMD",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 3,
+        "company": "AMD",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "MGMRESORTS_2022_10K",
+        "page_number": 36,
+        "company": "MGM Resorts",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00790",
+    "doc_name": "CVSHEALTH_2022_10K",
+    "question": "Is CVS Health a capital-intensive business based on FY2022 data?",
+    "evidence_page_nums": [
+      107,
+      109
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 113,
+        "company": "CVS Health",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 2,
+        "company": "CVS Health",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 3,
+        "company": "CVS Health",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 70,
+        "company": "CVS Health",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 91,
+        "company": "CVS Health",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00799",
+    "doc_name": "AMCOR_2023_10K",
+    "question": "Has AMCOR's quick ratio improved or declined between FY2023 and FY2022? If the quick ratio is not something that a financial analyst would ask about a company like this, then state that and explain why.",
+    "evidence_page_nums": [
+      51
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 34,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "AMCOR_2023Q4_EARNINGS",
+        "page_number": 6,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 45,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "AMCOR_2023Q4_EARNINGS",
+        "page_number": 4,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "JOHNSON_JOHNSON_2022_10K",
+        "page_number": 59,
+        "company": "Johnson & Johnson",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00807",
+    "doc_name": "3M_2023Q2_10Q",
+    "question": "Does 3M have a reasonably healthy liquidity profile based on its quick ratio for Q2 of FY2023? If the quick ratio is not relevant to measure liquidity, please state that and explain why.",
+    "evidence_page_nums": [
+      4
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 69,
+        "company": "3M",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "3M_2022_10K",
+        "page_number": 36,
+        "company": "3M",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "3M_2022_10K",
+        "page_number": 41,
+        "company": "3M",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "3M_2022_10K",
+        "page_number": 41,
+        "company": "3M",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "3M_2022_10K",
+        "page_number": 92,
+        "company": "3M",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00822",
+    "doc_name": "FOOTLOCKER_2022_8K_dated-2022-05-20",
+    "question": "Were there any board member nominees who had substantially more votes against joining than the other nominees?",
+    "evidence_page_nums": [
+      1
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "JPMORGAN_2022_10K",
+        "page_number": 310,
+        "company": "JPMorgan",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 126,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 120,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "FOOTLOCKER_2022_8K_dated-2022-05-20",
+        "page_number": 1,
+        "company": "Foot Locker",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-05",
+        "page_number": 2,
+        "company": "PepsiCo",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00839",
+    "doc_name": "FOOTLOCKER_2022_8K_dated_2022-08-19",
+    "question": "Does Foot Locker's new CEO have previous CEO experience in a similar company to Footlocker?",
+    "evidence_page_nums": [
+      1
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "FOOTLOCKER_2022_8K_dated_2022-08-19",
+        "page_number": 28,
+        "company": "Foot Locker",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "FOOTLOCKER_2022_8K_dated_2022-08-19",
+        "page_number": 28,
+        "company": "Foot Locker",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "FOOTLOCKER_2022_8K_dated_2022-08-19",
+        "page_number": 29,
+        "company": "Foot Locker",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "FOOTLOCKER_2022_8K_dated_2022-08-19",
+        "page_number": 29,
+        "company": "Foot Locker",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "FOOTLOCKER_2022_8K_dated_2022-08-19",
+        "page_number": 4,
+        "company": "Foot Locker",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00859",
+    "doc_name": "VERIZON_2021_10K",
+    "question": "Among all of the derivative instruments that Verizon used to manage the exposure to fluctuations of foreign currencies exchange rates or interest rates, which one had the highest notional value in FY 2021?",
+    "evidence_page_nums": [
+      84
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 45,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 87,
+        "company": "Verizon",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "VERIZON_2021_10K",
+        "page_number": 45,
+        "company": "Verizon",
+        "doc_period": 2021
+      },
+      {
+        "rank": 4,
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 36,
+        "company": "Verizon",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "NIKE_2023_10K",
+        "page_number": 52,
+        "company": "Nike",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00882",
+    "doc_name": "PEPSICO_2023_8K_dated-2023-05-30",
+    "question": "As of May 26, 2023, what is the total amount Pepsico may borrow under its unsecured revolving credit agreements?",
+    "evidence_page_nums": [
+      1
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-30",
+        "page_number": 1,
+        "company": "PepsiCo",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-30",
+        "page_number": 1,
+        "company": "PepsiCo",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-30",
+        "page_number": 1,
+        "company": "PepsiCo",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-30",
+        "page_number": 159,
+        "company": "PepsiCo",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 64,
+        "company": "PepsiCo",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00917",
+    "doc_name": "AMD_2022_10K",
+    "question": "What drove operating margin change as of the FY22 for AMD? If operating margin is not a useful metric for a company like this, then please state that and explain why.",
+    "evidence_page_nums": [
+      42
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 13,
+        "company": "AMD",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "AES_2022_10K",
+        "page_number": 95,
+        "company": "AES Corporation",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "MICROSOFT_2023_10K",
+        "page_number": 45,
+        "company": "Microsoft",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 41,
+        "company": "AMD",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "MGMRESORTS_2022_10K",
+        "page_number": 43,
+        "company": "MGM Resorts",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00941",
+    "doc_name": "3M_2023Q2_10Q",
+    "question": "Which debt securities are registered to trade on a national securities exchange under 3M's name as of Q2 of 2023?",
+    "evidence_page_nums": [
+      0
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 69,
+        "company": "3M",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "3M_2022_10K",
+        "page_number": 41,
+        "company": "3M",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 70,
+        "company": "3M",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "3M_2022_10K",
+        "page_number": 17,
+        "company": "3M",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 72,
+        "company": "3M",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00956",
+    "doc_name": "JOHNSON_JOHNSON_2022_10K",
+    "question": "Are JnJ's FY2022 financials that of a high growth company?",
+    "evidence_page_nums": [
+      27
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "JOHNSON_JOHNSON_2023Q2_EARNINGS",
+        "page_number": 0,
+        "company": "Johnson & Johnson",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "JOHNSON_JOHNSON_2022_10K",
+        "page_number": 44,
+        "company": "Johnson & Johnson",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "JOHNSON_JOHNSON_2022_10K",
+        "page_number": 12,
+        "company": "Johnson & Johnson",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "JPMORGAN_2022Q2_10Q",
+        "page_number": 7,
+        "company": "JPMorgan",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "JOHNSON_JOHNSON_2023Q2_EARNINGS",
+        "page_number": 5,
+        "company": "Johnson & Johnson",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00995",
+    "doc_name": "AMD_2022_10K",
+    "question": "What are the major products and services that AMD sells as of FY22?",
+    "evidence_page_nums": [
+      3
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 10,
+        "company": "AMD",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 59,
+        "company": "AMD",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 3,
+        "company": "AMD",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 42,
+        "company": "AMD",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 8,
+        "company": "AMD",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01009",
+    "doc_name": "PEPSICO_2022_10K",
+    "question": "What are the geographies that Pepsico primarily operates in as of FY2022?",
+    "evidence_page_nums": [
+      3,
+      4
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 27,
+        "company": "PepsiCo",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 63,
+        "company": "PepsiCo",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 27,
+        "company": "PepsiCo",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 3,
+        "company": "PepsiCo",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "PEPSICO_2023Q1_EARNINGS",
+        "page_number": 15,
+        "company": "PepsiCo",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01028",
+    "doc_name": "AMERICANEXPRESS_2022_10K",
+    "question": "What are the geographies that American Express primarily operates in as of 2022?",
+    "evidence_page_nums": [
+      154
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 251,
+        "company": "American Express",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 125,
+        "company": "American Express",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 5,
+        "company": "American Express",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 4,
+        "company": "American Express",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 39,
+        "company": "American Express",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01077",
+    "doc_name": "BESTBUY_2023_10K",
+    "question": "What are major acquisitions that Best Buy has done in FY2023, FY2022 and FY2021?",
+    "evidence_page_nums": [
+      50
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "BESTBUY_2024Q2_10Q",
+        "page_number": 16,
+        "company": "Best Buy",
+        "doc_period": 2024
+      },
+      {
+        "rank": 2,
+        "doc_name": "BESTBUY_2023_10K",
+        "page_number": 68,
+        "company": "Best Buy",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "BESTBUY_2023_10K",
+        "page_number": 65,
+        "company": "Best Buy",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "BESTBUY_2023_10K",
+        "page_number": 25,
+        "company": "Best Buy",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "BESTBUY_2023_10K",
+        "page_number": 43,
+        "company": "Best Buy",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01079",
+    "doc_name": "AMCOR_2023_10K",
+    "question": "What are major acquisitions that AMCOR has done in FY2023, FY2022 and FY2021?",
+    "evidence_page_nums": [
+      63
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "AMCOR_2023Q2_10Q",
+        "page_number": 6,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 151,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "AMCOR_2023Q2_10Q",
+        "page_number": 31,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 51,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "AMCOR_2023Q2_10Q",
+        "page_number": 33,
+        "company": "Amcor",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01091",
+    "doc_name": "BOEING_2022_10K",
+    "question": "Has Boeing reported any materially important ongoing legal battles from FY2022?",
+    "evidence_page_nums": [
+      112
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 22,
+        "company": "Boeing",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 62,
+        "company": "Boeing",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 131,
+        "company": "Boeing",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 1,
+        "company": "Boeing",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 58,
+        "company": "Boeing",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01107",
+    "doc_name": "CVSHEALTH_2022_10K",
+    "question": "Has CVS Health reported any materially important ongoing legal battles from 2022, 2021 and 2020?",
+    "evidence_page_nums": [
+      172,
+      173
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 2,
+        "company": "CVS Health",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 173,
+        "company": "CVS Health",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 113,
+        "company": "CVS Health",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 162,
+        "company": "CVS Health",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 174,
+        "company": "CVS Health",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01148",
+    "doc_name": "AMCOR_2023_10K",
+    "question": "What industry does AMCOR primarily operate in?",
+    "evidence_page_nums": [
+      4
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 54,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "AMCOR_2023Q4_EARNINGS",
+        "page_number": 5,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "AMCOR_2023Q2_10Q",
+        "page_number": 33,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 29,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "AMCOR_2023Q2_10Q",
+        "page_number": 9,
+        "company": "Amcor",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01163",
+    "doc_name": "NIKE_2023_10K",
+    "question": "Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for Nike in FY2023?",
+    "evidence_page_nums": [
+      61
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "NIKE_2023_10K",
+        "page_number": 61,
+        "company": "Nike",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "NIKE_2023_10K",
+        "page_number": 48,
+        "company": "Nike",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "NIKE_2023_10K",
+        "page_number": 31,
+        "company": "Nike",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "NIKE_2023_10K",
+        "page_number": 31,
+        "company": "Nike",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "NIKE_2023_10K",
+        "page_number": 32,
+        "company": "Nike",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01198",
+    "doc_name": "AMD_2022_10K",
+    "question": "What drove revenue change as of the FY22 for AMD?",
+    "evidence_page_nums": [
+      42
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 105,
+        "company": "AMD",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 42,
+        "company": "AMD",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 103,
+        "company": "AMD",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 105,
+        "company": "AMD",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 47,
+        "company": "AMD",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01226",
+    "doc_name": "3M_2022_10K",
+    "question": "What drove operating margin change as of FY2022 for 3M? If operating margin is not a useful metric for a company like this, then please state that and explain why.",
+    "evidence_page_nums": [
+      26
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "3M_2022_10K",
+        "page_number": 120,
+        "company": "3M",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 51,
+        "company": "3M",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "AES_2022_10K",
+        "page_number": 95,
+        "company": "AES Corporation",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "MICROSOFT_2023_10K",
+        "page_number": 45,
+        "company": "Microsoft",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 53,
+        "company": "3M",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01244",
+    "doc_name": "CVSHEALTH_2022_10K",
+    "question": "Has CVS Health paid dividends to common shareholders in Q2 of FY2022?",
+    "evidence_page_nums": [
+      67
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 67,
+        "company": "CVS Health",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 91,
+        "company": "CVS Health",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 167,
+        "company": "CVS Health",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 69,
+        "company": "CVS Health",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 166,
+        "company": "CVS Health",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01254",
+    "doc_name": "MGMRESORTS_2022_10K",
+    "question": "Has MGM Resorts paid dividends to common shareholders in FY2022?",
+    "evidence_page_nums": [
+      31
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "MGMRESORTS_2022_10K",
+        "page_number": 63,
+        "company": "MGM Resorts",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "MGMRESORTS_2023Q2_10Q",
+        "page_number": 7,
+        "company": "MGM Resorts",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "MGMRESORTS_2023Q2_10Q",
+        "page_number": 6,
+        "company": "MGM Resorts",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "MGMRESORTS_2022_10K",
+        "page_number": 96,
+        "company": "MGM Resorts",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "MGMRESORTS_2022_10K",
+        "page_number": 31,
+        "company": "MGM Resorts",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01275",
+    "doc_name": "BESTBUY_2023_10K",
+    "question": "Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for Best Buy in FY2023?",
+    "evidence_page_nums": [
+      41
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "BESTBUY_2023_10K",
+        "page_number": 25,
+        "company": "Best Buy",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "BESTBUY_2024Q2_10Q",
+        "page_number": 13,
+        "company": "Best Buy",
+        "doc_period": 2024
+      },
+      {
+        "rank": 3,
+        "doc_name": "BESTBUY_2023_10K",
+        "page_number": 21,
+        "company": "Best Buy",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "CVSHEALTH_2022_10K",
+        "page_number": 88,
+        "company": "CVS Health",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "CORNING_2022_10K",
+        "page_number": 34,
+        "company": "Corning",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01279",
+    "doc_name": "AMD_2022_10K",
+    "question": "Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for AMD in FY22?",
+    "evidence_page_nums": [
+      57
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 103,
+        "company": "AMD",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 105,
+        "company": "AMD",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 104,
+        "company": "AMD",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "CORNING_2022_10K",
+        "page_number": 34,
+        "company": "Corning",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "AMD_2022_10K",
+        "page_number": 103,
+        "company": "AMD",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01290",
+    "doc_name": "BOEING_2022_10K",
+    "question": "Who are the primary customers of Boeing as of FY2022?",
+    "evidence_page_nums": [
+      7,
+      9,
+      13
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 54,
+        "company": "Boeing",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 61,
+        "company": "Boeing",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 2,
+        "company": "Boeing",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 56,
+        "company": "Boeing",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 22,
+        "company": "Boeing",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01319",
+    "doc_name": "AES_2022_10K",
+    "question": "What is the quantity of restructuring costs directly outlined in AES Corporation's income statements for FY2022? If restructuring costs are not explicitly outlined then state 0.",
+    "evidence_page_nums": [
+      131
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "AES_2022_10K",
+        "page_number": 83,
+        "company": "AES Corporation",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 57,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "JOHNSON_JOHNSON_2022Q4_EARNINGS",
+        "page_number": 23,
+        "company": "Johnson & Johnson",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "AES_2022_10K",
+        "page_number": 201,
+        "company": "AES Corporation",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "AES_2022_10K",
+        "page_number": 85,
+        "company": "AES Corporation",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01328",
+    "doc_name": "PEPSICO_2022_10K",
+    "question": "What is the quantity of restructuring costs directly outlined in Pepsico's income statements for FY2022? If restructuring costs are not explicitly outlined then state 0.",
+    "evidence_page_nums": [
+      77
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 67,
+        "company": "PepsiCo",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 45,
+        "company": "PepsiCo",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 61,
+        "company": "PepsiCo",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 77,
+        "company": "PepsiCo",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 64,
+        "company": "PepsiCo",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01346",
+    "doc_name": "CORNING_2022_10K",
+    "question": "How much has the effective tax rate of Corning changed between FY2021 and FY2022?",
+    "evidence_page_nums": [
+      23
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "CORNING_2022_10K",
+        "page_number": 76,
+        "company": "Corning",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "CORNING_2022_10K",
+        "page_number": 23,
+        "company": "Corning",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "CORNING_2022_10K",
+        "page_number": 78,
+        "company": "Corning",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 71,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "CORNING_2022_10K",
+        "page_number": 25,
+        "company": "Corning",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01351",
+    "doc_name": "AMERICANEXPRESS_2022_10K",
+    "question": "How much has the effective tax rate of American Express changed between FY2021 and FY2022?",
+    "evidence_page_nums": [
+      43
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "JOHNSON_JOHNSON_2022_10K",
+        "page_number": 67,
+        "company": "Johnson & Johnson",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "ULTABEAUTY_2023_10K",
+        "page_number": 71,
+        "company": "Ulta Beauty",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 125,
+        "company": "American Express",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "AES_2022_10K",
+        "page_number": 189,
+        "company": "AES Corporation",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "MGMRESORTS_2022_10K",
+        "page_number": 86,
+        "company": "MGM Resorts",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01474",
+    "doc_name": "PEPSICO_2023Q1_EARNINGS",
+    "question": "As of FY2023Q1, why did Pepsico raise full year guidance for FY2023?",
+    "evidence_page_nums": [
+      0
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "PEPSICO_2023Q1_EARNINGS",
+        "page_number": 2,
+        "company": "PepsiCo",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "PEPSICO_2023Q1_EARNINGS",
+        "page_number": 0,
+        "company": "PepsiCo",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 64,
+        "company": "PepsiCo",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 63,
+        "company": "PepsiCo",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 171,
+        "company": "PepsiCo",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01476",
+    "doc_name": "PEPSICO_2023Q1_EARNINGS",
+    "question": "As of FY2023Q1, by how many percentage points did Pepsico raise full year guidance in respect of core constant currency EPS growth?",
+    "evidence_page_nums": [
+      0
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "PEPSICO_2023Q1_EARNINGS",
+        "page_number": 2,
+        "company": "PepsiCo",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "PEPSICO_2023Q1_EARNINGS",
+        "page_number": 0,
+        "company": "PepsiCo",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 64,
+        "company": "PepsiCo",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "PEPSICO_2023Q1_EARNINGS",
+        "page_number": 11,
+        "company": "PepsiCo",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 63,
+        "company": "PepsiCo",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01482",
+    "doc_name": "PEPSICO_2023_8K_dated-2023-05-05",
+    "question": "At the Pepsico AGM held on May 3, 2023, what was the outcome of the shareholder vote on the shareholder proposal for a congruency report by Pepsico on net-zero emissions policies?",
+    "evidence_page_nums": [
+      3
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-05",
+        "page_number": 2,
+        "company": "PepsiCo",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "PEPSICO_2023_8K_dated-2023-05-05",
+        "page_number": 3,
+        "company": "PepsiCo",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 498,
+        "company": "PepsiCo",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "PEPSICO_2023Q1_EARNINGS",
+        "page_number": 0,
+        "company": "PepsiCo",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "PEPSICO_2022_10K",
+        "page_number": 129,
+        "company": "PepsiCo",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01484",
+    "doc_name": "JOHNSON_JOHNSON_2022Q4_EARNINGS",
+    "question": "How did JnJ's US sales growth compare to international sales growth in FY2022?",
+    "evidence_page_nums": [
+      1
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
+        "page_number": 17,
+        "company": "Johnson & Johnson",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "JOHNSON_JOHNSON_2023Q2_EARNINGS",
+        "page_number": 0,
+        "company": "Johnson & Johnson",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
+        "page_number": 16,
+        "company": "Johnson & Johnson",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "JOHNSON_JOHNSON_2022_10K",
+        "page_number": 27,
+        "company": "Johnson & Johnson",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "JOHNSON_JOHNSON_2022Q4_EARNINGS",
+        "page_number": 4,
+        "company": "Johnson & Johnson",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01487",
+    "doc_name": "JOHNSON_JOHNSON_2023Q2_EARNINGS",
+    "question": "Did JnJ's net earnings as a percent of sales increase in Q2 of FY2023 compared to Q2 of FY2022?",
+    "evidence_page_nums": [
+      9
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "JOHNSON_JOHNSON_2023Q2_EARNINGS",
+        "page_number": 0,
+        "company": "Johnson & Johnson",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "JOHNSON_JOHNSON_2022Q4_EARNINGS",
+        "page_number": 4,
+        "company": "Johnson & Johnson",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "JOHNSON_JOHNSON_2023Q2_EARNINGS",
+        "page_number": 10,
+        "company": "Johnson & Johnson",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "JOHNSON_JOHNSON_2022Q4_EARNINGS",
+        "page_number": 10,
+        "company": "Johnson & Johnson",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "JOHNSON_JOHNSON_2023Q2_EARNINGS",
+        "page_number": 9,
+        "company": "Johnson & Johnson",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01488",
+    "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
+    "question": "Which business segment of JnJ will be treated as a discontinued operation from August 30, 2023 onward?",
+    "evidence_page_nums": [
+      3
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "JOHNSON_JOHNSON_2023Q2_EARNINGS",
+        "page_number": 21,
+        "company": "Johnson & Johnson",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "JOHNSON_JOHNSON_2023Q2_EARNINGS",
+        "page_number": 11,
+        "company": "Johnson & Johnson",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "JOHNSON_JOHNSON_2022_10K",
+        "page_number": 107,
+        "company": "Johnson & Johnson",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "JOHNSON_JOHNSON_2023Q2_EARNINGS",
+        "page_number": 22,
+        "company": "Johnson & Johnson",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "AMERICANWATERWORKS_2022_10K",
+        "page_number": 102,
+        "company": "American Water Works",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01490",
+    "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
+    "question": "What is the amount of the gain accruing to JnJ as a result of the separation of its Consumer Health business segment, as of August 30, 2023?",
+    "evidence_page_nums": [
+      3
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "JOHNSON_JOHNSON_2023Q2_EARNINGS",
+        "page_number": 11,
+        "company": "Johnson & Johnson",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 72,
+        "company": "Pfizer",
+        "doc_period": 2021
+      },
+      {
+        "rank": 3,
+        "doc_name": "JOHNSON_JOHNSON_2023Q2_EARNINGS",
+        "page_number": 0,
+        "company": "Johnson & Johnson",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
+        "page_number": 14,
+        "company": "Johnson & Johnson",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
+        "page_number": 3,
+        "company": "Johnson & Johnson",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01491",
+    "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
+    "question": "What is the amount of the cash proceeds that JnJ realised from the separation of Kenvue (formerly Consumer Health business segment), as of August 30, 2023?",
+    "evidence_page_nums": [
+      3
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
+        "page_number": 3,
+        "company": "Johnson & Johnson",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
+        "page_number": 1,
+        "company": "Johnson & Johnson",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
+        "page_number": 3,
+        "company": "Johnson & Johnson",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
+        "page_number": 5,
+        "company": "Johnson & Johnson",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "JOHNSON_JOHNSON_2023Q2_EARNINGS",
+        "page_number": 0,
+        "company": "Johnson & Johnson",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01858",
+    "doc_name": "3M_2023Q2_10Q",
+    "question": "Does 3M maintain a stable trend of dividend distribution?",
+    "evidence_page_nums": [
+      61
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 69,
+        "company": "3M",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "3M_2022_10K",
+        "page_number": 36,
+        "company": "3M",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "3M_2022_10K",
+        "page_number": 41,
+        "company": "3M",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 72,
+        "company": "3M",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 61,
+        "company": "3M",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01865",
+    "doc_name": "3M_2022_10K",
+    "question": "If we exclude the impact of M&A, which segment has dragged down 3M's overall growth in 2022?",
+    "evidence_page_nums": [
+      24
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "3M_2023Q2_10Q",
+        "page_number": 78,
+        "company": "3M",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "3M_2022_10K",
+        "page_number": 20,
+        "company": "3M",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "3M_2022_10K",
+        "page_number": 10,
+        "company": "3M",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "3M_2022_10K",
+        "page_number": 38,
+        "company": "3M",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "3M_2022_10K",
+        "page_number": 18,
+        "company": "3M",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01902",
+    "doc_name": "BESTBUY_2024Q2_10Q",
+    "question": "Which Best Buy product category performed the best (by top line) in the domestic (USA) Market during Q2 of FY2024?",
+    "evidence_page_nums": [
+      17
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "BESTBUY_2023_10K",
+        "page_number": 25,
+        "company": "Best Buy",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "BESTBUY_2024Q2_10Q",
+        "page_number": 16,
+        "company": "Best Buy",
+        "doc_period": 2024
+      },
+      {
+        "rank": 3,
+        "doc_name": "BESTBUY_2024Q2_10Q",
+        "page_number": 18,
+        "company": "Best Buy",
+        "doc_period": 2024
+      },
+      {
+        "rank": 4,
+        "doc_name": "BESTBUY_2023_10K",
+        "page_number": 22,
+        "company": "Best Buy",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "BESTBUY_2023_10K",
+        "page_number": 18,
+        "company": "Best Buy",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01911",
+    "doc_name": "MGMRESORTS_2022Q4_EARNINGS",
+    "question": "What was MGM's interest coverage ratio using FY2022 Adjusted EBIT as the numerator and annual Interest Expense as the denominator?",
+    "evidence_page_nums": [
+      13
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "MGMRESORTS_2023Q2_10Q",
+        "page_number": 52,
+        "company": "MGM Resorts",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "MGMRESORTS_2022_10K",
+        "page_number": 44,
+        "company": "MGM Resorts",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "MGMRESORTS_2022_10K",
+        "page_number": 42,
+        "company": "MGM Resorts",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "MGMRESORTS_2022_10K",
+        "page_number": 40,
+        "company": "MGM Resorts",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "MGMRESORTS_2022Q4_EARNINGS",
+        "page_number": 13,
+        "company": "MGM Resorts",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01912",
+    "doc_name": "MGMRESORTS_2022Q4_EARNINGS",
+    "question": "Which region had the worst topline performance for MGM during FY2022?",
+    "evidence_page_nums": [
+      2,
+      3
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "MGMRESORTS_2022_10K",
+        "page_number": 39,
+        "company": "MGM Resorts",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "MGMRESORTS_2022_10K",
+        "page_number": 37,
+        "company": "MGM Resorts",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "MGMRESORTS_2022Q4_EARNINGS",
+        "page_number": 1,
+        "company": "MGM Resorts",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "MGMRESORTS_2022_10K",
+        "page_number": 36,
+        "company": "MGM Resorts",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "MGMRESORTS_2023Q2_10Q",
+        "page_number": 30,
+        "company": "MGM Resorts",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01928",
+    "doc_name": "AMCOR_2023Q4_EARNINGS",
+    "question": "What Was AMCOR's Adjusted Non GAAP EBITDA for FY 2023",
+    "evidence_page_nums": [
+      11
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 34,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "AMCOR_2023Q4_EARNINGS",
+        "page_number": 6,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "AMCOR_2023Q4_EARNINGS",
+        "page_number": 0,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "AMCOR_2023Q2_10Q",
+        "page_number": 41,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "AMCOR_2023Q4_EARNINGS",
+        "page_number": 1,
+        "company": "Amcor",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01930",
+    "doc_name": "AMCOR_2023Q4_EARNINGS",
+    "question": "How much was the Real change in Sales for AMCOR in FY 2023 vs FY 2022, if we exclude the impact of FX movement, passthrough costs and one-off items?",
+    "evidence_page_nums": [
+      9
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "AMCOR_2023Q4_EARNINGS",
+        "page_number": 2,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "AMCOR_2023Q4_EARNINGS",
+        "page_number": 4,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "AMCOR_2023Q4_EARNINGS",
+        "page_number": 1,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "AMCOR_2023Q2_10Q",
+        "page_number": 35,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "AMCOR_2023Q4_EARNINGS",
+        "page_number": 0,
+        "company": "Amcor",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01935",
+    "doc_name": "AMCOR_2022_8K_dated-2022-07-01",
+    "question": "What was the key agenda of the AMCOR's 8k filing dated 1st July 2022?",
+    "evidence_page_nums": [
+      1
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "AMCOR_2022_8K_dated-2022-07-01",
+        "page_number": 1,
+        "company": "Amcor",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 47,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "AMCOR_2023Q4_EARNINGS",
+        "page_number": 4,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 53,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 92,
+        "company": "Amcor",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01936",
+    "doc_name": "AMCOR_2023Q2_10Q",
+    "question": "What is the nature & purpose of AMCOR's restructuring liability as oF Q2 of FY2023 close?",
+    "evidence_page_nums": [
+      14
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "AMCOR_2022_8K_dated-2022-07-01",
+        "page_number": 1,
+        "company": "Amcor",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 34,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 3,
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 68,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "AMCOR_2023Q2_10Q",
+        "page_number": 8,
+        "company": "Amcor",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "AMCOR_2023Q2_10Q",
+        "page_number": 3,
+        "company": "Amcor",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01964",
+    "doc_name": "AMERICANEXPRESS_2022_10K",
+    "question": "What was the largest liability in American Express's Balance Sheet in 2022?",
+    "evidence_page_nums": [
+      97
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 125,
+        "company": "American Express",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 91,
+        "company": "American Express",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 151,
+        "company": "American Express",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 156,
+        "company": "American Express",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "BOEING_2022_10K",
+        "page_number": 86,
+        "company": "Boeing",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01981",
+    "doc_name": "AMERICANEXPRESS_2022_10K",
+    "question": "Was American Express able to retain card members during 2022?",
+    "evidence_page_nums": [
+      44
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 125,
+        "company": "American Express",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 4,
+        "company": "American Express",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 183,
+        "company": "American Express",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 187,
+        "company": "American Express",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "AMERICANEXPRESS_2022_10K",
+        "page_number": 161,
+        "company": "American Express",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_02024",
+    "doc_name": "VERIZON_2021_10K",
+    "question": "As of FY 2021, how much did Verizon expect to pay for its retirees in 2024?",
+    "evidence_page_nums": [
+      62,
+      93
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "VERIZON_2021_10K",
+        "page_number": 19,
+        "company": "Verizon",
+        "doc_period": 2021
+      },
+      {
+        "rank": 2,
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 96,
+        "company": "Verizon",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 53,
+        "company": "Verizon",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 37,
+        "company": "Verizon",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "VERIZON_2022_10K",
+        "page_number": 54,
+        "company": "Verizon",
+        "doc_period": 2022
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_02049",
+    "doc_name": "JPMORGAN_2023Q2_10Q",
+    "question": "Looking at VaR, did the risk that JPM faced in the second fiscal quarter of 2023 decrease compared to the same period in the prior year?",
+    "evidence_page_nums": [
+      84
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 1,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "JPMORGAN_2023Q2_10Q",
+        "page_number": 84,
+        "company": "JPMorgan",
+        "doc_period": 2023
+      },
+      {
+        "rank": 2,
+        "doc_name": "JPMORGAN_2022_10K",
+        "page_number": 150,
+        "company": "JPMorgan",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
+        "page_number": 5,
+        "company": "Johnson & Johnson",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "JPMORGAN_2022_10K",
+        "page_number": 135,
+        "company": "JPMorgan",
+        "doc_period": 2022
+      },
+      {
+        "rank": 5,
+        "doc_name": "AMCOR_2023_10K",
+        "page_number": 32,
+        "company": "Amcor",
+        "doc_period": 2023
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_02119",
+    "doc_name": "JPMORGAN_2021Q1_10Q",
+    "question": "If JPM went bankrupted by the end by 2021 Q1 and liquidated all of its assets to pay its shareholders, how much could each shareholder get?",
+    "evidence_page_nums": [
+      5
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "JPMORGAN_2022_10K",
+        "page_number": 160,
+        "company": "JPMorgan",
+        "doc_period": 2022
+      },
+      {
+        "rank": 2,
+        "doc_name": "MGMRESORTS_2022_10K",
+        "page_number": 47,
+        "company": "MGM Resorts",
+        "doc_period": 2022
+      },
+      {
+        "rank": 3,
+        "doc_name": "JPMORGAN_2022Q2_10Q",
+        "page_number": 134,
+        "company": "JPMorgan",
+        "doc_period": 2022
+      },
+      {
+        "rank": 4,
+        "doc_name": "JPMORGAN_2021Q1_10Q",
+        "page_number": 32,
+        "company": "JPMorgan",
+        "doc_period": 2021
+      },
+      {
+        "rank": 5,
+        "doc_name": "JPMORGAN_2021Q1_10Q",
+        "page_number": 120,
+        "company": "JPMorgan",
+        "doc_period": 2021
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_02416",
+    "doc_name": "PFIZER_2021_10K",
+    "question": "What are three main companies acquired by Pfizer mentioned in this 10K report?",
+    "evidence_page_nums": [
+      69,
+      70
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 13,
+        "company": "Pfizer",
+        "doc_period": 2021
+      },
+      {
+        "rank": 2,
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 46,
+        "company": "Pfizer",
+        "doc_period": 2021
+      },
+      {
+        "rank": 3,
+        "doc_name": "Pfizer_2023Q2_10Q",
+        "page_number": 38,
+        "company": "Pfizer",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 87,
+        "company": "Pfizer",
+        "doc_period": 2021
+      },
+      {
+        "rank": 5,
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 96,
+        "company": "Pfizer",
+        "doc_period": 2021
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_02419",
+    "doc_name": "Pfizer_2023Q2_10Q",
+    "question": "As of Q2'2023, is Pfizer spinning off any large business segments?",
+    "evidence_page_nums": [
+      40
+    ],
+    "chunk_size": 2000,
+    "page_hit_at_5": 0,
+    "retrieved": [
+      {
+        "rank": 1,
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 106,
+        "company": "Pfizer",
+        "doc_period": 2021
+      },
+      {
+        "rank": 2,
+        "doc_name": "PFIZER_2021_10K",
+        "page_number": 107,
+        "company": "Pfizer",
+        "doc_period": 2021
+      },
+      {
+        "rank": 3,
+        "doc_name": "Pfizer_2023Q2_10Q",
+        "page_number": 38,
+        "company": "Pfizer",
+        "doc_period": 2023
+      },
+      {
+        "rank": 4,
+        "doc_name": "Pfizer_2023Q2_10Q",
+        "page_number": 7,
+        "company": "Pfizer",
+        "doc_period": 2023
+      },
+      {
+        "rank": 5,
+        "doc_name": "Pfizer_2023Q2_10Q",
+        "page_number": 39,
+        "company": "Pfizer",
+        "doc_period": 2023
+      }
+    ]
+  }
+]

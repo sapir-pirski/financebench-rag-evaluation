@@ -1,0 +1,114 @@
+[
+  {
+    "financebench_id": "financebench_id_00005",
+    "question_type": "domain-relevant",
+    "question": "Does Corning have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.",
+    "naive_answer": "The answer cannot be determined from the question alone, as it does not provide Corning's FY2022 balance sheet data, specifically current assets and current liabilities, which are necessary to calculate working capital.",
+    "ground_truth": "Yes. Corning had a positive working capital amount of $831 million by FY 2022 close. This answer considers only operating current assets and current liabilities that were clearly shown in the balance sheet.",
+    "doc_name": "CORNING_2022_10K",
+    "evidence_page_nums": [
+      59
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00070",
+    "question_type": "domain-relevant",
+    "question": "Does American Water Works have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.",
+    "naive_answer": "The answer cannot be determined from the question alone, as the FY2022 data for American Water Works is not provided. Working capital is typically calculated as current assets minus current liabilities, and without this data, it's impossible to determine if American Water Works has positive working capital. However, it's worth noting that working capital may not be a highly relevant metric for a utility company like American Water Works, as they often have significant capital expenditures and long-term assets, and their cash flows may be more stable and predictable due to their regulated business model.",
+    "ground_truth": "No, American Water Works had negative working capital of -$1561M in FY 2022.",
+    "doc_name": "AMERICANWATERWORKS_2022_10K",
+    "evidence_page_nums": [
+      80,
+      81
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00080",
+    "question_type": "domain-relevant",
+    "question": "Does Paypal have positive working capital based on FY2022 data? If working capital is not a useful or relevant metric for this company, then please state that and explain why.",
+    "naive_answer": "The answer cannot be determined from the question alone, as the FY2022 data for Paypal's current assets and current liabilities is not provided. Working capital is calculated as current assets minus current liabilities. Without this data, it's impossible to determine if Paypal has positive working capital. However, it's worth noting that working capital can be a relevant metric for companies like Paypal, as it can indicate their ability to meet short-term obligations and manage their liquidity.",
+    "ground_truth": "Yes. Paypal has a positive working capital of $ 1.6Bn as of FY2022 end.",
+    "doc_name": "PAYPAL_2022_10K",
+    "evidence_page_nums": [
+      60
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00206",
+    "question_type": "domain-relevant",
+    "question": "Are JPM's gross margins historically consistent (not fluctuating more than roughly 2% each year)? If gross margins are not a relevant metric for a company like this, then please state that and explain why.",
+    "naive_answer": "Gross margins are not a relevant metric for a company like JPM (JPMorgan Chase), as it is a bank and financial services company. Banks typically report net interest income and non-interest income, rather than gross margins, which are more relevant to companies that produce and sell goods. The answer cannot be determined from the question alone, as it would require access to JPM's financial statements to analyze their net interest margins or other relevant metrics.",
+    "ground_truth": "Since JPM is a financial institution, gross margin is not a relevant metric.",
+    "doc_name": "JPMORGAN_2022_10K",
+    "evidence_page_nums": [
+      2
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00215",
+    "question_type": "domain-relevant",
+    "question": "Is Verizon a capital intensive business based on FY 2022 data?",
+    "naive_answer": "The answer cannot be determined from the question alone, as it requires specific FY 2022 data on Verizon's capital expenditures, assets, and other financial metrics that are not provided.",
+    "ground_truth": "Yes. Verizon's capital intensity ratio was approximately 2.774729. This means that it took approximately $2.77 of assets to generate $1 of revenue and thus, Verizon can be considered capital intensive.",
+    "doc_name": "VERIZON_2022_10K",
+    "evidence_page_nums": [
+      22,
+      55
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00283",
+    "question_type": "novel-generated",
+    "question": "How much does Pfizer expect to pay to spin off Upjohn in the future in USD million?",
+    "naive_answer": "The answer cannot be determined from the question alone.",
+    "ground_truth": "77.78",
+    "doc_name": "Pfizer_2023Q2_10Q",
+    "evidence_page_nums": [
+      40
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00288",
+    "question_type": "novel-generated",
+    "question": "Was there any drop in Cash & Cash equivalents between FY 2023 and Q2 of FY2024?",
+    "naive_answer": "The question does not provide the Cash & Cash equivalents values for FY 2023 and Q2 of FY2024, so the answer cannot be determined from the question alone.",
+    "ground_truth": "Yes, there was a decline of ~42% between FY2023 and Q2 of FY 2024.",
+    "doc_name": "BESTBUY_2024Q2_10Q",
+    "evidence_page_nums": [
+      19
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00299",
+    "question_type": "novel-generated",
+    "question": "Which of JPM's business segments had the lowest net revenue in 2021 Q1?",
+    "naive_answer": "The answer cannot be determined from the question alone.",
+    "ground_truth": "Corporate. Its net revenue was -$473 million.",
+    "doc_name": "JPMORGAN_2021Q1_10Q",
+    "evidence_page_nums": [
+      18
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00302",
+    "question_type": "novel-generated",
+    "question": "Did Pfizer grow its PPNE between FY20 and FY21?",
+    "naive_answer": "The question does not provide the PPNE (Pfizer's Pharmaceutical Pipeline, New Products, and Exclusions, or possibly Purchased Product Net Expense, but more likely Pharmaceutical and other Purchased Product Net Expense, or possibly Pharmaceutical and other Product Net Expense, or possibly Pharmaceutical Product Net Expense, but most likely Purchased Product and Other Adjustments, Net) for FY20 and FY21. The answer cannot be determined from the question alone.",
+    "ground_truth": "Yes, change in PPNE was positive year over year",
+    "doc_name": "PFIZER_2021_10K",
+    "evidence_page_nums": [
+      58
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00382",
+    "question_type": "novel-generated",
+    "question": "Which region had the Highest EBITDAR Contribution for MGM during FY2022?",
+    "naive_answer": "The answer cannot be determined from the question alone.",
+    "ground_truth": "Las Vegas resorts contributed ~90% of company level EBITDAR during FY2022.",
+    "doc_name": "MGMRESORTS_2022Q4_EARNINGS",
+    "evidence_page_nums": [
+      12
+    ]
+  }
+]
